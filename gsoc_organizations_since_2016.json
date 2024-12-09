@@ -1,1 +1,3031 @@
-{"52\u00b0North Initiative for Geospatial Open Source Software GmbH": {"2016": 3, "2017": 1, "2019": 2}, "aimacode": {"2016": 3, "2017": 4, "2018": 5, "2019": 4}, "AOSSIE - The Australian National University's Open-Source Software Innovation and Education": {"2016": 6}, "Apache Software Foundation": {"2016": 35, "2017": 23, "2018": 23, "2022": 33, "2023": 25, "2024": 22}, "ArchC": {"2016": 2}, "ASCEND": {"2016": 3}, "BeagleBoard.org": {"2016": 6, "2019": 3, "2020": 4, "2022": 4, "2023": 4, "2024": 4}, "Beam Community": {"2016": 6, "2017": 7, "2018": 6}, "Berkman Center for Internet and Society": {"2016": 10}, "BioJS": {"2016": 3}, "Biomedical Informatics, Emory University": {"2016": 5, "2019": 4}, "Blender Foundation": {"2016": 8, "2017": 5, "2018": 5, "2019": 7, "2020": 9, "2021": 8, "2022": 3, "2023": 5, "2024": 6}, "Boston University / XIA": {"2016": 2, "2017": 2, "2018": 4}, "BRL-CAD": {"2016": 9, "2017": 8, "2018": 7, "2019": 8, "2020": 8, "2021": 6, "2022": 7, "2023": 5, "2024": 9}, "BuildmLearn": {"2016": 4}, "Canadian Centre for Computational Genomics (C3G) - Montreal node": {"2016": 3}, "Catrobat": {"2016": 7, "2017": 5, "2018": 5, "2019": 9, "2020": 12}, "cBioPortal for Cancer Genomics": {"2016": 5, "2017": 6, "2019": 6, "2022": 2, "2023": 6, "2024": 9}, "CCExtractor Development": {"2016": 6, "2017": 6, "2018": 6, "2019": 10, "2020": 8, "2021": 9, "2022": 10, "2023": 7, "2024": 9}, "Celluloid": {"2016": 3}, "Ceph": {"2016": 4, "2017": 4, "2021": 7, "2022": 1, "2023": 3, "2024": 3}, "CERN SFT": {"2016": 10}, "Chapel": {"2016": 2, "2017": 3, "2019": 4, "2020": 4, "2021": 3}, "CiviCRM": {"2016": 8, "2019": 2, "2020": 4}, "Classical Language Toolkit": {"2016": 2, "2017": 2, "2018": 3}, "CloudCV": {"2016": 2, "2017": 4, "2018": 5, "2019": 4, "2020": 3, "2021": 3, "2023": 2, "2024": 2}, "Computational Biology @ University of Nebraska-Lincoln": {"2016": 5, "2017": 4, "2018": 4, "2019": 5}, "Computational Science and Engineering at TU Wien": {"2016": 10}, "Copyleft Games": {"2016": 2, "2017": 2}, "coreboot": {"2016": 3, "2019": 3, "2020": 2, "2022": 1, "2023": 2}, "CVXPY": {"2016": 1}, "D Foundation": {"2016": 4}, "dbpediaspotlight": {"2016": 8}, "Debian Project": {"2016": 20, "2018": 22}, "Discourse": {"2016": 2, "2017": 4}, "Distributed and Unified Numerics Environment (DUNE)": {"2016": 2}, "Django Software Foundation": {"2016": 1, "2017": 0, "2018": 0, "2019": 2, "2020": 2, "2021": 4, "2022": 2, "2023": 1, "2024": 4}, "Drupal": {"2016": 9, "2017": 6, "2018": 1, "2019": 2, "2020": 1}, "Eclipse Foundation": {"2016": 11, "2020": 7, "2022": 5, "2023": 6, "2024": 6}, "Fedora Project": {"2016": 6, "2017": 5, "2018": 5, "2019": 5, "2020": 4}, "FFmpeg": {"2016": 7, "2017": 6, "2018": 5, "2019": 6, "2020": 5, "2021": 5, "2022": 2, "2023": 3, "2024": 7}, "FOSDEM VZW": {"2016": 1}, "FOSSASIA": {"2016": 18, "2017": 51, "2018": 32, "2019": 14, "2024": 8}, "Free and Open Source Silicon Foundation": {"2016": 3, "2017": 4, "2018": 6, "2019": 7, "2020": 4, "2021": 11, "2022": 8, "2023": 5, "2024": 7}, "FreeBSD": {"2016": 12, "2017": 5, "2018": 8, "2019": 6}, "Freifunk": {"2016": 8, "2017": 12}, "Gambit - Software Tools for Game Theory": {"2016": 3}, "Ganeti": {"2016": 1}, "Genes, Genomes and Variation": {"2016": 2, "2017": 5, "2018": 2, "2019": 3}, "Gentoo Foundation": {"2016": 5, "2017": 3, "2018": 2, "2019": 2, "2020": 4, "2021": 2, "2022": 4, "2023": 3}, "Git": {"2016": 1, "2017": 1, "2018": 3, "2019": 2, "2020": 3, "2021": 2, "2022": 2, "2023": 2, "2024": 3}, "GitHub": {"2016": 4}, "Global Alliance for Genomics & Health": {"2016": 3}, "GNOME": {"2016": 18, "2017": 19, "2018": 13, "2019": 8, "2020": 14}, "gnss-sdr": {"2016": 3}, "GNU Mailman": {"2016": 3, "2019": 1}, "GNU Octave": {"2016": 5, "2017": 4, "2018": 3, "2019": 0, "2020": 1, "2021": 1, "2022": 3, "2023": 2, "2024": 3}, "GNU Project": {"2016": 15, "2018": 9, "2023": 7, "2024": 6}, "GNU Radio": {"2016": 2, "2017": 2, "2018": 2, "2019": 2, "2020": 1, "2021": 1, "2022": 1, "2023": 1, "2024": 2}, "GPAC": {"2016": 1, "2020": 0}, "Green Navigation": {"2016": 3, "2017": 5}, "gRPC": {"2016": 2, "2018": 1}, "Health Information Systems Programme": {"2016": 6}, "Homebrew": {"2016": 4, "2017": 2, "2018": 1, "2020": 3, "2022": 1}, "Inclusive Design Institute": {"2016": 4, "2018": 5, "2020": 2}, "Indic Project": {"2016": 7}, "Inkscape": {"2016": 2, "2017": 2, "2018": 0, "2019": 1, "2020": 3, "2021": 6, "2022": 3, "2023": 2, "2024": 3}, "International Neuroinformatics Coordinating Facility": {"2016": 12}, "Java Pathfinder Team": {"2016": 10}, "JBoss Community": {"2016": 9, "2017": 3, "2018": 3, "2019": 8, "2020": 10, "2021": 10, "2022": 9}, "Jenkins Project": {"2016": 1}, "Joomla!": {"2016": 5, "2018": 7, "2021": 5, "2022": 4}, "jQuery Foundation": {"2016": 7}, "JSK Robotics Laboratory": {"2016": 0, "2017": 2}, "KDE": {"2016": 32, "2017": 24}, "KolibriOS": {"2016": 4}, "LabLua": {"2016": 8, "2017": 6, "2018": 5, "2019": 5, "2020": 6, "2021": 4, "2024": 4}, "LibreOffice": {"2016": 9, "2017": 9, "2018": 7, "2019": 6, "2020": 6, "2021": 7, "2022": 2, "2023": 5, "2024": 8}, "Libvirt": {"2016": 4, "2019": 3}, "Liquid Galaxy Project": {"2016": 4, "2017": 3}, "lowRISC": {"2016": 4, "2017": 4, "2020": 2}, "MariaDB": {"2016": 5, "2017": 1, "2022": 6, "2023": 5, "2024": 6}, "Matrix.org": {"2016": 2, "2017": 3, "2018": 2, "2019": 4, "2021": 7, "2022": 5}, "MBDyn, Department of Aerospace Science and Technology at Politecnico di Milano": {"2016": 3}, "McGill Space Institute": {"2016": 3}, "MetaBrainz Foundation": {"2016": 4}, "Mifos Initiative": {"2016": 6, "2017": 10}, "MIT Media Lab": {"2016": 5}, "Mixxx DJ Software": {"2016": 2, "2017": 2, "2018": 2}, "mlpack: a scalable C++ machine learning library": {"2016": 6}, "Mobile Robot Programming Toolkit (MRPT)": {"2016": 3, "2017": 4, "2018": 1}, "ModSecurity": {"2016": 3}, "Moodle": {"2016": 4, "2017": 1, "2018": 0, "2019": 2}, "MovingBlocks": {"2016": 3, "2017": 10, "2018": 9}, "Mozilla": {"2016": 13, "2017": 21, "2018": 16, "2019": 14, "2020": 11}, "MuseScore": {"2016": 3, "2017": 3, "2018": 3, "2019": 4, "2020": 3, "2021": 3, "2022": 2, "2023": 1, "2024": 2}, "National Resource for Network Biology (NRNB)": {"2016": 15, "2017": 20, "2018": 10, "2019": 11, "2020": 15, "2021": 13, "2022": 8, "2023": 8, "2024": 11}, "Netfilter project": {"2016": 3, "2017": 2, "2018": 3, "2019": 3}, "Nmap Security Scanner": {"2016": 5, "2017": 4}, "NumFOCUS": {"2016": 7, "2017": 10, "2018": 40, "2019": 19, "2020": 28, "2021": 45, "2022": 37, "2023": 24, "2024": 37}, "Open Bioinformatics Foundation": {"2016": 7, "2017": 7, "2018": 5, "2019": 5, "2021": 8}, "Open Chemistry": {"2016": 2, "2017": 6, "2018": 7, "2019": 6, "2020": 5, "2021": 7, "2022": 9, "2023": 8, "2024": 1}, "Open Detection": {"2016": 2, "2017": 2}, "Open Ephys": {"2016": 2}, "Open Genome Informatics": {"2016": 6, "2017": 8, "2020": 5, "2021": 6, "2022": 2, "2023": 1}, "Open Source Robotics Foundation": {"2016": 7, "2018": 4, "2019": 7, "2020": 7}, "OpenAstronomy": {"2016": 7, "2017": 8, "2018": 8, "2020": 10, "2022": 8, "2023": 6, "2024": 8}, "OpenCV": {"2016": 11, "2017": 15, "2019": 8, "2020": 14, "2021": 11, "2022": 10, "2023": 10, "2024": 7}, "OpenKeychain (OpenPGP for Android)": {"2016": 2}, "OpenMRS": {"2016": 9, "2017": 15, "2018": 10, "2019": 12, "2020": 9, "2021": 11, "2022": 5, "2023": 9, "2024": 6}, "OpenStreetMap": {"2016": 4, "2017": 5, "2018": 5, "2019": 5, "2020": 4, "2021": 4, "2022": 4, "2023": 4, "2024": 4}, "openSUSE": {"2016": 6, "2017": 5, "2018": 2}, "Oppia Foundation": {"2016": 1, "2017": 3, "2018": 7, "2019": 4, "2020": 12, "2021": 18, "2022": 14, "2023": 5, "2024": 8}, "Orange \u2013 Data Mining Fruitful & Fun": {"2016": 5}, "OSGeo - The Open Source Geospatial Foundation": {"2016": 20}, "OSU Open Source Lab": {"2016": 1}, "OWASP Foundation": {"2016": 5, "2018": 8, "2019": 12, "2020": 12, "2021": 14, "2022": 15, "2023": 11, "2024": 12}, "ownCloud": {"2016": 2, "2017": 3}, "P2PSP.org": {"2016": 2, "2017": 2, "2018": 1}, "Peragro": {"2016": 0}, "Performance Co-Pilot": {"2016": 2, "2017": 5, "2018": 5, "2019": 2, "2020": 3, "2022": 2}, "Physical Web Project": {"2016": 3, "2017": 5}, "PLASMA-UMass": {"2016": 1}, "Plone Foundation": {"2016": 3, "2017": 4, "2022": 4, "2023": 5, "2024": 3}, "Portland State University": {"2016": 6, "2017": 7}, "PRISM Model Checker": {"2016": 5}, "Public Lab": {"2016": 5, "2017": 5, "2018": 9, "2019": 12, "2021": 4, "2022": 3}, "Python Software Foundation": {"2016": 49, "2017": 29, "2018": 14, "2019": 30, "2020": 24, "2021": 34, "2022": 28, "2023": 22, "2024": 30}, "QEMU": {"2016": 6, "2017": 4, "2018": 4, "2019": 3, "2020": 3, "2021": 6, "2022": 4, "2023": 6}, "R project for statistical computing": {"2016": 22, "2017": 33, "2018": 24, "2019": 30, "2022": 13, "2023": 9, "2024": 18}, "radare": {"2016": 3, "2018": 5}, "ReactOS": {"2016": 4, "2017": 4, "2018": 1, "2019": 2, "2020": 3, "2021": 1}, "Red Hen Lab": {"2016": 5, "2017": 9, "2018": 10, "2019": 15, "2020": 8, "2021": 12, "2022": 12, "2023": 5, "2024": 12}, "Robocomp": {"2016": 5}, "RTEMS Project": {"2016": 5, "2017": 4, "2018": 4, "2019": 4, "2020": 5, "2021": 4, "2022": 4, "2023": 3, "2024": 6}, "Ruby": {"2016": 12, "2018": 5, "2019": 5, "2020": 4, "2021": 5, "2022": 3, "2023": 4}, "Ruby Science Foundation": {"2016": 4, "2017": 3, "2018": 4, "2019": 2}, "Sage Mathematical Software System": {"2016": 5, "2017": 5, "2018": 5}, "Scala": {"2016": 9, "2017": 8, "2018": 1}, "Scilab Enterprises": {"2016": 5}, "ScummVM": {"2016": 3, "2017": 2, "2018": 3, "2019": 3, "2020": 4, "2021": 5, "2022": 3, "2023": 4, "2024": 4}, "Shogun Machine Learning Toolbox": {"2016": 3, "2017": 4}, "Sigmah": {"2016": 1, "2017": 2}, "Soletta Project": {"2016": 3}, "Stony Brook University Biomedical Informatics": {"2016": 4, "2018": 2}, "strace": {"2016": 4, "2017": 4, "2018": 2, "2019": 2, "2020": 1, "2021": 1, "2022": 1}, "Sugar Labs": {"2016": 5, "2017": 9, "2018": 11, "2019": 8, "2020": 9, "2021": 8, "2022": 9, "2023": 8, "2024": 11}, "Sustainable Computing Research Group ( SCoRe )": {"2016": 7, "2017": 16}, "SymPy": {"2016": 7, "2017": 8, "2018": 7, "2019": 10, "2020": 6, "2021": 6, "2022": 3, "2023": 5, "2024": 5}, "Systers, an Anita Borg Institute Community": {"2016": 19}, "TARDIS-SN": {"2016": 3, "2020": 3}, "TEAMMATES @ National University of Singapore": {"2016": 7, "2017": 8, "2018": 5}, "The Apertium Project": {"2016": 11}, "The Center for Connected Learning and Computer-Based Modeling": {"2016": 1, "2017": 1, "2018": 2, "2019": 1}, "The Honeynet Project": {"2016": 11, "2017": 12, "2018": 17, "2019": 9, "2020": 11, "2021": 11, "2022": 6, "2023": 6, "2024": 9}, "The Julia Language": {"2016": 10, "2017": 16, "2019": 13, "2020": 15, "2021": 20, "2022": 19, "2023": 14, "2024": 20}, "The Linux Foundation": {"2016": 11, "2017": 11, "2018": 12, "2019": 7, "2020": 13, "2021": 18, "2022": 14, "2023": 11, "2024": 21}, "The LLVM Compiler Infrastructure": {"2016": 7, "2020": 15, "2021": 16}, "The Monarch Initiative": {"2016": 1}, "The NetBSD Foundation": {"2016": 4, "2017": 3, "2018": 4, "2019": 7, "2020": 6, "2021": 0, "2022": 5, "2023": 2, "2024": 4}, "The STE||AR Group": {"2016": 4}, "The syslog-ng project": {"2016": 4}, "The Tor Project": {"2016": 5, "2022": 3, "2023": 4}, "The Wine Project": {"2016": 2, "2017": 0, "2018": 2, "2019": 0, "2020": 0}, "Timelab Technologies Ltd.": {"2016": 3}, "TimVideos.us": {"2016": 2, "2018": 2, "2019": 0}, "Unitex/GramLab": {"2016": 2}, "Urban Energy Systems Laboratory, Empa": {"2016": 3, "2017": 3}, "Vert.x": {"2016": 3}, "VideoLAN / VLMC Project": {"2016": 3}, "vitrivr": {"2016": 3, "2018": 1, "2021": 2}, "Wayland": {"2016": 1}, "Wikimedia Foundation": {"2016": 6, "2017": 7, "2018": 12, "2019": 11, "2020": 14, "2021": 10, "2022": 7, "2023": 9, "2024": 9}, "WSO2": {"2016": 11, "2017": 9}, "X.Org Foundation": {"2016": 2, "2017": 4, "2019": 2, "2020": 1, "2022": 3, "2023": 5}, "Xapian Search Engine Library": {"2016": 5, "2017": 3, "2018": 2, "2019": 3, "2020": 2}, "XWiki": {"2016": 0, "2017": 2, "2018": 3, "2019": 3, "2020": 1, "2021": 1, "2022": 1, "2023": 1}, "Zulip Open Source Project": {"2016": 3, "2019": 17}, "AboutCode": {"2017": 4, "2021": 4, "2022": 5, "2023": 2, "2024": 4}, "AerospaceResearch.net": {"2017": 6, "2018": 6, "2019": 7, "2020": 5, "2021": 6}, "Amahi": {"2017": 3, "2018": 5, "2019": 7, "2020": 3}, "AOSSIE - Australian Open Source Software Innovation and Education": {"2017": 13, "2018": 13, "2019": 18}, "Apertium": {"2017": 10, "2018": 11, "2019": 10, "2020": 7, "2021": 10, "2023": 5, "2024": 4}, "Apertus Association": {"2017": 1, "2018": 4, "2022": 0}, "appleseedhq": {"2017": 3, "2018": 3, "2019": 2}, "ArduPilot": {"2017": 3, "2018": 5, "2020": 5, "2021": 3, "2022": 4, "2023": 4, "2024": 4}, "Babel": {"2017": 2}, "Bazel": {"2017": 0, "2019": 2}, "BeagleBoard.org Foundation": {"2017": 6, "2018": 3, "2021": 6}, "BeeWare Project": {"2017": 3, "2018": 2}, "Berkman Klein Center for Internet and Society at Harvard University": {"2017": 5}, "Boost C++ Libraries": {"2017": 4, "2018": 9, "2021": 8}, "Cadasta": {"2017": 1}, "CERN-HSF": {"2017": 20, "2018": 26, "2019": 29, "2020": 34, "2021": 25, "2022": 21, "2023": 16, "2024": 19}, "Checker Framework": {"2017": 5, "2018": 3, "2019": 5, "2020": 2}, "Checkstyle": {"2017": 5, "2020": 3, "2021": 2}, "CLiPS, University of Antwerp": {"2017": 2, "2018": 4, "2019": 4}, "Clojure": {"2017": 0}, "Cloud Native Computing Foundation (CNCF)": {"2017": 6, "2018": 7, "2019": 15, "2020": 17}, "CMU Sphinx": {"2017": 11}, "coala": {"2017": 9, "2018": 14, "2019": 10, "2021": 4}, "Conversations.im": {"2017": 1, "2018": 3}, "DBpedia": {"2017": 7, "2018": 3, "2019": 6, "2020": 7, "2021": 10, "2022": 4, "2023": 6, "2024": 6}, "Eclipse Vert.x": {"2017": 3}, "Elm Software Foundation": {"2017": 1}, "Environmental Data And Governance Initiative": {"2017": 2}, "FOSDEM": {"2017": 1, "2019": 2}, "Frescobaldi": {"2017": 2}, "GENIVI Development Platform": {"2017": 0}, "Global Alliance for Genomics and Health": {"2017": 2, "2018": 4, "2019": 5, "2020": 4, "2021": 7, "2022": 8, "2023": 7, "2024": 6}, "GNSS-SDR": {"2017": 5, "2018": 5, "2019": 3, "2020": 2, "2021": 1, "2022": 3, "2024": 3}, "Haiku": {"2017": 5, "2018": 2, "2019": 1, "2020": 4, "2021": 3, "2022": 3, "2023": 3, "2024": 5}, "illumos.org": {"2017": 0}, "INCF": {"2017": 13, "2018": 16, "2019": 17, "2020": 21, "2021": 21, "2022": 35, "2023": 22, "2024": 28}, "Institute for Artificial Intelligence": {"2017": 5, "2018": 6}, "Intel Media and Audio for Linux": {"2017": 2}, "Internet Archive": {"2017": 2, "2018": 5, "2019": 2, "2020": 3, "2021": 2, "2023": 5, "2024": 3}, "JdeRobot - Universidad Rey Juan Carlos": {"2017": 4, "2018": 5, "2019": 6, "2020": 5, "2021": 6}, "Jitsi": {"2017": 3, "2018": 3, "2022": 6, "2024": 4}, "Joomla": {"2017": 8, "2019": 3}, "K-9 Mail": {"2017": 2}, "LibreHealth": {"2017": 4, "2018": 9, "2019": 0, "2020": 4, "2021": 5, "2022": 4, "2023": 5}, "libvirt": {"2017": 1, "2018": 2, "2020": 4, "2021": 1, "2022": 2, "2024": 2}, "LLVM Compiler Infrastructure": {"2017": 8, "2018": 8, "2019": 8, "2022": 13, "2023": 20, "2024": 14}, "LuaRocks": {"2017": 1, "2018": 2, "2019": 2}, "MBDyn": {"2017": 2, "2020": 1, "2021": 2, "2022": 1, "2024": 1}, "MetaBrainz Foundation Inc.": {"2017": 5, "2018": 5, "2020": 7}, "Metasploit": {"2017": 2, "2018": 5, "2020": 2, "2021": 1, "2022": 1, "2023": 1}, "Microkernel devroom": {"2017": 3}, "MIT App Inventor": {"2017": 4, "2019": 4, "2020": 6, "2021": 5, "2022": 5, "2023": 6, "2024": 5}, "mlpack": {"2017": 10, "2018": 6, "2019": 9, "2020": 8, "2021": 8, "2022": 4, "2023": 3, "2024": 6}, "Mono Project": {"2017": 9}, "Open Data Kit": {"2017": 1, "2018": 2, "2019": 2}, "Open States": {"2017": 1, "2018": 0}, "Open Technologies Alliance - GFOSS": {"2017": 4, "2022": 9, "2023": 7, "2024": 10}, "OpenWISP": {"2017": 5, "2018": 2, "2019": 2, "2020": 3, "2021": 5, "2022": 2, "2023": 1, "2024": 2}, "OSGeo": {"2017": 13, "2018": 10, "2019": 7, "2020": 10}, "oVirt": {"2017": 2}, "PEcAn Project": {"2017": 3, "2018": 1, "2019": 2, "2020": 3, "2021": 4, "2022": 5, "2023": 4, "2024": 4}, "Pharo Consortium": {"2017": 5, "2019": 7, "2021": 6, "2023": 6}, "phpBB Forum Software": {"2017": 2, "2018": 2}, "phpMyAdmin": {"2017": 3, "2018": 4, "2019": 2}, "PMD": {"2017": 2, "2018": 1}, "Polly Labs": {"2017": 1, "2018": 3}, "PostgreSQL": {"2017": 4, "2018": 3, "2019": 4, "2020": 3, "2021": 6, "2022": 7, "2023": 12, "2024": 5}, "Qubes OS": {"2017": 2, "2020": 1, "2021": 1}, "radare2": {"2017": 3}, "RoboComp": {"2017": 9, "2018": 8, "2019": 10, "2020": 10, "2021": 10, "2022": 5}, "Rocket.Chat": {"2017": 4, "2018": 7, "2019": 15, "2020": 7, "2021": 12}, "Rspamd": {"2017": 1, "2018": 0}, "Ruby on Rails": {"2017": 2, "2018": 2}, "Samba": {"2017": 1, "2019": 1, "2020": 1, "2021": 0}, "Scilab": {"2017": 5, "2018": 4}, "Software Product Data Exchange (SPDX)": {"2017": 4}, "STE||AR Group": {"2017": 4, "2018": 4, "2021": 2}, "Stony Brook University, Biomedical Informatics": {"2017": 3}, "Systers, an Anita Borg Institute community": {"2017": 11}, "The CGAL Project": {"2017": 4}, "The Eclipse Foundation": {"2017": 10, "2018": 7, "2019": 10}, "The FreeType Project": {"2017": 2}, "The GNU Project": {"2017": 13, "2019": 5, "2020": 7}, "The Java Pathfinder Team": {"2017": 7, "2018": 4, "2019": 6, "2020": 6}, "The Libreswan Project": {"2017": 2, "2018": 3, "2019": 1, "2020": 3, "2021": 1, "2022": 0}, "The MacPorts Project": {"2017": 2, "2018": 0}, "The ns-3 Network Simulator Project": {"2017": 5, "2018": 5, "2019": 4, "2020": 4, "2021": 3, "2022": 2, "2023": 3, "2024": 3}, "The Processing Foundation": {"2017": 14, "2018": 16, "2019": 16}, "Tiled": {"2017": 3}, "TimVideos": {"2017": 2}, "Tor": {"2017": 4}, "UCSC Xena": {"2017": 1, "2018": 1, "2019": 1}, "VideoLAN": {"2017": 9, "2018": 10, "2019": 9, "2020": 8, "2021": 9, "2022": 6, "2023": 10, "2024": 14}, "ViSP": {"2017": 1, "2018": 2}, "WorldBrain - Verifying the Internet with Science": {"2017": 1}, "wxWidgets": {"2017": 2}, "XBMC Foundation": {"2017": 3, "2018": 2}, "Xen Project": {"2017": 2}, "XMPP Standards Foundation": {"2017": 2, "2020": 2, "2022": 1, "2023": 2, "2024": 2}, "Zenodo": {"2017": 2}, "Zulip": {"2017": 10, "2018": 10, "2020": 18, "2021": 18, "2022": 15, "2023": 13, "2024": 17}, "3DTK": {"2018": 2}, "52\u00b0 North Initiative for Geospatial Open Source Software GmbH": {"2018": 1}, "Berkman Klein Center for Internet & Society at Harvard University": {"2018": 2}, "Canadian Centre for Computational Genomics": {"2018": 3, "2020": 5}, "Center for Research In Open Source Software (CROSS) at UC Santa Cruz": {"2018": 2}, "CGAL Project": {"2018": 7, "2020": 7, "2021": 5, "2022": 6, "2023": 10, "2024": 5}, "CHAOSS: Community Health Analytics Open Source Software": {"2018": 2}, "CiviCRM LLC": {"2018": 4, "2021": 4}, "Cuneiform Digital Library Initiative": {"2018": 2}, "Developers Italia": {"2018": 2, "2019": 3}, "Digital Impact Alliance": {"2018": 2, "2019": 3}, "Earth Science Information Partners (ESIP)": {"2018": 2}, "Elastic": {"2018": 2, "2020": 2}, "Eta": {"2018": 2}, "FOSSology": {"2018": 1, "2020": 3, "2021": 7, "2022": 6, "2023": 5, "2024": 8}, "Free UK Genealogy": {"2018": 2}, "FreeType": {"2018": 3, "2019": 3, "2020": 3, "2021": 1, "2022": 2, "2023": 3, "2024": 1}, "freifunk": {"2018": 12, "2019": 10, "2021": 7, "2022": 8, "2023": 6, "2024": 7}, "GENIVI Alliance": {"2018": 1, "2019": 2}, "GFOSS - Open Technologies Alliance": {"2018": 10}, "GNU Compiler Collection (GCC)": {"2018": 1, "2020": 2, "2021": 3, "2022": 3, "2023": 6, "2024": 7}, "Godot Engine": {"2018": 5, "2019": 8, "2020": 6, "2021": 5, "2022": 3}, "Haskell.org": {"2018": 15, "2020": 12, "2021": 10, "2022": 10, "2024": 5}, "Inria Foundation": {"2018": 2}, "Intel Media And Audio For Linux": {"2018": 1, "2019": 2, "2020": 2}, "InterMine": {"2018": 6, "2019": 6}, "Internet Systems Consortium": {"2018": 2, "2019": 1}, "Jenkins project": {"2018": 2, "2019": 5, "2020": 7}, "JGraphT": {"2018": 2}, "JSK Robotics Laboratory / The University of Tokyo": {"2018": 2, "2019": 0}, "KDE Community": {"2018": 17, "2019": 22, "2020": 19, "2021": 15, "2022": 6, "2023": 7, "2024": 10}, "Kiwix": {"2018": 2, "2019": 2, "2020": 3, "2021": 3, "2023": 2, "2024": 3}, "languagetool.org": {"2018": 2}, "LEAP Encryption Access Project": {"2018": 1, "2022": 1}, "MariaDB Foundation": {"2018": 1, "2019": 4, "2020": 2, "2021": 4}, "Neovim": {"2018": 2, "2019": 2, "2020": 1}, "omegaUp.com": {"2018": 1}, "Open Food Facts": {"2018": 2, "2022": 4}, "Open Roberta Lab": {"2018": 2}, "OpenCensus": {"2018": 1}, "OpenSIPS": {"2018": 0}, "OpnTec": {"2018": 2}, "OW2": {"2018": 0}, "Plone": {"2018": 4}, "Pocket Science Lab": {"2018": 2}, "Probot": {"2018": 2}, "Purr Data": {"2018": 1, "2019": 1, "2020": 3, "2021": 3, "2022": 1, "2023": 2, "2024": 4}, "Python HYDRA": {"2018": 2}, "Quill.org": {"2018": 1}, "Read the Docs": {"2018": 1, "2019": 2}, "Seastar": {"2018": 1}, "Software and Computational Systems Lab at LMU Munich": {"2018": 1, "2019": 2, "2023": 4, "2024": 5}, "Space @ Virginia Tech": {"2018": 2}, "SPDX": {"2018": 4, "2020": 4, "2021": 4, "2022": 2, "2023": 3}, "Stemformatics": {"2018": 2}, "Streetmix": {"2018": 1}, "Submitty": {"2018": 2, "2019": 4, "2020": 3, "2022": 3, "2023": 3, "2024": 4}, "Sustainable Computing Research Group (SCoRe)": {"2018": 18}, "Swift": {"2018": 0, "2019": 1, "2020": 4, "2021": 5, "2022": 5, "2023": 3, "2024": 4}, "Systers Community": {"2018": 11}, "The Mifos Initiative": {"2018": 12, "2019": 14, "2020": 17, "2022": 9, "2023": 10, "2024": 11}, "The Qt Project": {"2018": 1}, "The syslog-ng project.": {"2018": 1}, "The Vega Visualization Tools by the UW Interactive Data Lab": {"2018": 2}, "TLA+": {"2018": 1}, "webpack": {"2018": 3, "2019": 2, "2020": 1, "2024": 3}, "WorldBrain.io - Verifying the Internet": {"2018": 3}, "X.org Foundation": {"2018": 2}, "Xi Editor Project": {"2018": 3}, "xpra.org": {"2018": 0}, "AboutCode.org": {"2019": 3, "2020": 5}, "Android Graphics Tools Team": {"2019": 2, "2020": 3, "2021": 3}, "apertus\u00b0 Association": {"2019": 4, "2020": 4, "2021": 5}, "API Client Tools at Google": {"2019": 1}, "Ardupilot.org": {"2019": 5}, "Berkman Klein Center for Internet and Society": {"2019": 3}, "Boost C++": {"2019": 11, "2020": 9}, "Buildroot": {"2019": 1}, "Canadian Center for Computational Genomics": {"2019": 4}, "CBMI@UTHSC": {"2019": 3}, "Center for Research in Open Source Software at UC Santa Cruz": {"2019": 4}, "CGAL project": {"2019": 9}, "CHAOSS": {"2019": 4, "2020": 9, "2022": 5}, "CircuitVerse.org": {"2019": 3, "2020": 4, "2021": 6, "2022": 4, "2023": 4, "2024": 5}, "Creative Commons": {"2019": 5, "2020": 5, "2023": 1, "2024": 3}, "CRIU (Checkpoint/Restore in User-space)": {"2019": 1}, "Cuneiform Digital Library Initiative (CDLI)": {"2019": 5, "2020": 9, "2021": 7, "2022": 7}, "D Programming Language": {"2019": 5}, "Debian": {"2019": 5, "2020": 8, "2021": 5, "2022": 2, "2024": 7}, "Earth Science Information Partners": {"2019": 2}, "FOSSology Project": {"2019": 3}, "FrameNet Brasil at the Federal University of Juiz de Fora": {"2019": 2}, "GNU Compiler Collection": {"2019": 6}, "gprMax": {"2019": 2, "2021": 4, "2023": 4, "2024": 4}, "Haskell.Org": {"2019": 15}, "Hydra Ecosystem": {"2019": 2, "2020": 2, "2021": 2}, "Institut f\u00fcr Angewandte Informatik (InfAI) e.V.": {"2019": 1}, "JabRef": {"2019": 1}, "Kapitan": {"2019": 1, "2020": 1}, "KNIME": {"2019": 2}, "Kodi Foundation": {"2019": 1, "2020": 3}, "Libre Space Foundation": {"2019": 2, "2020": 2, "2021": 3}, "Linkerd": {"2019": 2, "2020": 2}, "Liquid Galaxy project": {"2019": 7, "2020": 8, "2021": 11, "2022": 9, "2023": 11, "2024": 12}, "MacPorts": {"2019": 4, "2020": 1}, "MBDyn - Multibody Dynamics": {"2019": 1}, "MetaBrainz Foundation Inc": {"2019": 6, "2021": 5, "2022": 7, "2023": 7, "2024": 8}, "Moira": {"2019": 1, "2020": 2}, "Named Data Networking Project": {"2019": 2}, "NV Access": {"2019": 1, "2020": 1}, "Open Astronomy": {"2019": 9}, "Open Roberta": {"2019": 3, "2020": 3, "2021": 0}, "Open Technologies Aliance - GFOSS": {"2019": 13}, "Percona": {"2019": 2, "2020": 1}, "Pitivi": {"2019": 3, "2020": 3, "2021": 2, "2023": 2}, "Project PANOPTES": {"2019": 2}, "SageMath": {"2019": 4, "2020": 5, "2021": 7, "2022": 5, "2023": 6, "2024": 6}, "Salesforce": {"2019": 2}, "SCoRe Lab (Sustainable Computing Research Lab)": {"2019": 27}, "shogun.ml": {"2019": 1}, "Software Heritage": {"2019": 3, "2021": 2, "2022": 1}, "SPDX (Software Product Data Exchange)": {"2019": 8}, "SymbiFlow": {"2019": 1, "2020": 3, "2021": 1}, "Synfig": {"2019": 2, "2020": 2, "2021": 0, "2022": 2, "2023": 2, "2024": 2}, "syslog-ng": {"2019": 2, "2020": 1, "2021": 2, "2022": 2}, "TensorFlow": {"2019": 19, "2020": 17, "2021": 17, "2022": 22, "2023": 6}, "The Apache Software Foundation": {"2019": 17, "2020": 17, "2021": 28}, "The Perl Foundation": {"2019": 4}, "The Postgres Operator": {"2019": 1}, "The Terasology Foundation": {"2019": 9, "2020": 8, "2021": 4}, "The Vega Project at the University of Washington": {"2019": 2}, "Tokio": {"2019": 1}, "Tungsten Fabric": {"2019": 1}, "Xi Editor": {"2019": 1}, "XMPP Standards Foundation (XSF)": {"2019": 3}, "xpra": {"2019": 0}, "ZynAddSubFX": {"2019": 1}, "52\u00b0 North GmbH": {"2020": 3}, "Academy Software Foundation (ASWF)": {"2020": 3}, "Accord Project": {"2020": 2, "2021": 3, "2024": 3}, "afl++": {"2020": 2}, "AnitaB.org Open Source": {"2020": 4}, "AOSSIE": {"2020": 9, "2021": 11, "2022": 8, "2023": 6, "2024": 18}, "appleseed": {"2020": 3}, "Arduino": {"2020": 2}, "BioGears": {"2020": 2}, "caMicroscope": {"2020": 2, "2021": 5, "2023": 3, "2024": 3}, "Casbin": {"2020": 3, "2021": 9, "2022": 10}, "Ceph Foundation": {"2020": 4}, "Continuous Delivery Foundation": {"2020": 3, "2021": 6}, "CRIU": {"2020": 3, "2021": 3, "2022": 2, "2023": 3, "2024": 3}, "Dart": {"2020": 5, "2021": 3, "2022": 3, "2023": 2, "2024": 4}, "Digital Impact Alliance (DIAL) at UN Foundation": {"2020": 14, "2021": 12}, "Embox": {"2020": 2}, "Erlang Ecosystem Foundation": {"2020": 3}, "FrameNet Brasil (UFJF)": {"2020": 2, "2021": 1}, "FreeBSD Project": {"2020": 6, "2021": 5}, "FRRouting": {"2020": 1, "2021": 1, "2022": 1}, "GDevelop": {"2020": 2}, "GeomScale": {"2020": 3, "2021": 5, "2022": 6, "2023": 3, "2024": 7}, "GraphQL Foundation": {"2020": 2}, "Hazelcast": {"2020": 2}, "Joplin": {"2020": 2, "2021": 5, "2022": 6, "2024": 5}, "Kubeflow": {"2020": 2, "2024": 8}, "Matrix": {"2020": 6}, "MDAnalysis": {"2020": 3, "2021": 2, "2022": 2, "2023": 2, "2024": 3}, "MGGG Redistricting Lab": {"2020": 2, "2021": 1}, "Mixxx": {"2020": 3, "2022": 2, "2024": 2}, "MoveIt": {"2020": 2, "2021": 1, "2022": 2, "2023": 2, "2024": 3}, "mypy": {"2020": 1, "2021": 2}, "MZmine": {"2020": 2, "2022": 1}, "Netty": {"2020": 1}, "Open Bioinformatics Foundation (OBF)": {"2020": 8, "2022": 5}, "OpenEMR": {"2020": 3}, "OpenHMD": {"2020": 0}, "OpenMined": {"2020": 4, "2021": 5}, "OpenRefine": {"2020": 2, "2024": 1}, "openSUSE Project": {"2020": 3, "2021": 6, "2022": 4, "2023": 8, "2024": 11}, "Orcasound": {"2020": 2, "2021": 4, "2022": 4}, "Point Cloud Library": {"2020": 2, "2021": 3}, "Postman": {"2020": 2, "2021": 9, "2023": 8, "2024": 9}, "Processing Foundation": {"2020": 11, "2021": 11, "2022": 8, "2023": 8}, "R Project for Statistical Computing": {"2020": 20}, "Radare": {"2020": 4}, "SCoRe Lab": {"2020": 25, "2021": 23, "2022": 21, "2023": 12}, "Shogun": {"2020": 2}, "Ste||ar group": {"2020": 5, "2022": 4, "2023": 5, "2024": 5}, "Wireshark": {"2020": 1}, "52\u00b0North GmbH": {"2021": 3}, "AFLplusplus": {"2021": 2, "2022": 1, "2023": 2, "2024": 2}, "AnkiDroid": {"2021": 2, "2022": 3, "2024": 3}, "Audacity": {"2021": 2, "2022": 1}, "Bench-Routes": {"2021": 2}, "CASTOR": {"2021": 2}, "Center for Research in Open Source Software, UC Santa Cruz": {"2021": 5}, "CHAOSS Project": {"2021": 6}, "Chromium": {"2021": 9, "2022": 14, "2023": 17, "2024": 16}, "Cilium": {"2021": 3}, "CNCF": {"2021": 16, "2022": 16, "2023": 14, "2024": 11}, "DeepPavlov": {"2021": 3}, "Department of Biomedical Informatics (BMI), Emory University School of Medicine": {"2021": 6}, "Elm Tooling": {"2021": 2}, "Fortran-lang": {"2021": 5, "2022": 5, "2023": 3, "2024": 3}, "Genome Assembly and Annotation": {"2021": 3, "2022": 6, "2023": 5}, "GFOSS - Open Technology Alliance": {"2021": 9}, "GitLab": {"2021": 4, "2022": 3, "2023": 3}, "GNOME Foundation": {"2021": 12, "2022": 9, "2023": 9, "2024": 8}, "GNU Mailman Project": {"2021": 0}, "Google FHIR SDK": {"2021": 5}, "GRR Rapid Response": {"2021": 0}, "gVisor": {"2021": 1}, "Halide": {"2021": 2}, "Integrated Ocean Observing System (IOOS)": {"2021": 3}, "Intel Video and Audio for Linux": {"2021": 3, "2022": 2}, "International Catrobat Association": {"2021": 13, "2022": 11, "2023": 7, "2024": 8}, "JabRef e.V.": {"2021": 2, "2022": 1, "2024": 3}, "Java PathFinder": {"2021": 3}, "Kodi": {"2021": 2, "2022": 1}, "Learning Equality": {"2021": 1, "2022": 3, "2023": 3, "2024": 4}, "libcamera": {"2021": 2, "2022": 3, "2023": 2}, "LibreCube Initiative": {"2021": 2, "2022": 1, "2024": 4}, "Machine Learning for Science (ML4SCI) Umbrella Organization": {"2021": 19}, "MapAction": {"2021": 1}, "Mayor's Office of New Urban Mechanics (City of Boston)": {"2021": 3}, "Media Cloud": {"2021": 0}, "MediaPipe": {"2021": 6}, "MetaCall": {"2021": 3, "2022": 5, "2023": 4, "2024": 7}, "Navidrome": {"2021": 1}, "Open Robotics": {"2021": 2, "2022": 2, "2023": 3, "2024": 5}, "openastronomy": {"2021": 8}, "OSGeo - Open Source Geospatial Foundation": {"2021": 12}, "Pidgin Instant Messenger": {"2021": 1}, "Plan 9 Foundation": {"2021": 2}, "Polypheny": {"2021": 3, "2022": 3, "2024": 3}, "Project WikiLoop": {"2021": 3}, "React Native Elements": {"2021": 2}, "Rizin": {"2021": 3, "2022": 2, "2023": 1, "2024": 2}, "Scala Center": {"2021": 4, "2022": 4, "2023": 6, "2024": 10}, "Shaka Player": {"2021": 2}, "Tarantool": {"2021": 3, "2022": 0}, "TARDIS SN": {"2021": 3}, "The ENIGMA Team": {"2021": 2, "2022": 3, "2023": 2, "2024": 2}, "The Palisadoes Foundation": {"2021": 5, "2022": 8, "2023": 8, "2024": 8}, "The R Project for Statistical Computing": {"2021": 21}, "TianoCore": {"2021": 5, "2022": 3}, "Xfce": {"2021": 2, "2022": 3}, "Xiph.Org Foundation": {"2021": 3}, "xrdesktop": {"2021": 2}, "52\u00b0North Spatial Information Research GmbH": {"2022": 5, "2023": 3, "2024": 2}, "Academy Software Foundation": {"2022": 0}, "Center for Research in Open Source Software (CROSS)": {"2022": 9}, "Center for Translational Data Science": {"2022": 2}, "checkstyle": {"2022": 1, "2023": 2, "2024": 3}, "CHIPS Alliance": {"2022": 3, "2023": 5, "2024": 6}, "Department of Biomedical Informatics, Emory University": {"2022": 8, "2023": 5, "2024": 5}, "Drupal Association": {"2022": 3, "2023": 4, "2024": 6}, "Electron": {"2022": 1, "2024": 1}, "Flashrom": {"2022": 1}, "Forschungszentrum J\u00fclich": {"2022": 4}, "GNU Image Manipulation Program": {"2022": 1, "2023": 3, "2024": 3}, "GRAME": {"2022": 1, "2023": 2, "2024": 4}, "Internet Health Report": {"2022": 3, "2023": 4, "2024": 4}, "IOOS": {"2022": 4, "2024": 6}, "JdeRobot": {"2022": 6, "2023": 4, "2024": 5}, "Jenkins": {"2022": 4, "2023": 4, "2024": 5}, "Jenkins X": {"2022": 2}, "Kart Project": {"2022": 1}, "Keptn": {"2022": 3}, "libssh": {"2022": 1, "2023": 2, "2024": 2}, "Machine Learning for Science (ML4SCI)": {"2022": 20, "2023": 23, "2024": 27}, "Mathesar": {"2022": 3, "2023": 2}, "Mayor's Office of New Urban Mechanics": {"2022": 2, "2023": 4}, "Micro Electronics Research Lab - UITU": {"2022": 3, "2023": 1, "2024": 4}, "moja global": {"2022": 3}, "Monado": {"2022": 2}, "Neutralinojs": {"2022": 1, "2024": 3}, "omegaUp": {"2022": 1, "2023": 3, "2024": 2}, "Open3D team": {"2022": 3}, "OpenAFS": {"2022": 2}, "OpenVINO Toolkit": {"2022": 3, "2023": 5, "2024": 11}, "Organic Maps": {"2022": 2, "2023": 3, "2024": 4}, "OSGeo (Open Source Geospatial Foundation)": {"2022": 6, "2023": 7, "2024": 7}, "Our World In Data": {"2022": 2}, "PowerDNS": {"2022": 1}, "RADAR-base": {"2022": 3}, "ReactOS Foundation": {"2022": 0}, "Responsible AI and Human Centred Technology": {"2022": 4}, "Robolectric": {"2022": 2, "2024": 3}, "rocket.chat": {"2022": 12, "2023": 10, "2024": 17}, "SeaQL": {"2022": 0}, "Semi Technologies": {"2022": 3}, "sktime": {"2022": 3, "2024": 5}, "Society for Arts and Technology (SAT)": {"2022": 3, "2023": 5}, "TARDIS RT Collaboration": {"2022": 4, "2023": 6, "2024": 3}, "The FreeBSD Project": {"2022": 7, "2023": 6, "2024": 11}, "The JPF team": {"2022": 2, "2023": 2, "2024": 4}, "Unikraft": {"2022": 3, "2023": 4, "2024": 4}, "Wagtail": {"2022": 3, "2023": 2, "2024": 2}, "Wellcome Sanger Tree of Life": {"2022": 1, "2024": 3}, "FreeCAD": {"2023": 4, "2024": 2}, "Mantis": {"2023": 2}, "Cockpit Project": {"2023": 2}, "Jina AI": {"2023": 1}, "Stratosphere Laboratory, Czech Technical University in Prague": {"2023": 1, "2024": 1}, "Keploy": {"2023": 2, "2024": 3}, "KubeVirt": {"2023": 1, "2024": 2}, "Scalable Parallel Computing Laboratory": {"2023": 2, "2024": 4}, "UC OSPO": {"2023": 14, "2024": 17}, "Invesalius": {"2023": 2, "2024": 5}, "Qdrant": {"2023": 2}, "Carbon Language": {"2023": 2}, "FLARE": {"2023": 4, "2024": 1}, "SQLancer": {"2023": 2}, "Ivy (lets-unify.ai)": {"2023": 3}, "GnuTLS": {"2023": 2}, "Kotlin Foundation": {"2023": 4, "2024": 5}, "MZmine and MS-DIAL": {"2023": 2}, "GCP Scanner": {"2023": 3}, "Open Climate Fix": {"2024": 4}, "eunomia-bpf": {"2024": 3}, "DatenLord": {"2024": 2}, "Stichting SU2": {"2024": 3}, "NixOS Foundation": {"2024": 4}, "CVAT": {"2024": 3}, "JSON Schema": {"2024": 3}, "The Rust Foundation": {"2024": 9}, "HumanAI": {"2024": 11}, "DeepChem": {"2024": 8}, "Open Science Initiative for Perfusion Imaging": {"2024": 4}, "Uramaki LAB": {"2024": 3}, "KolibriOS Project Team": {"2024": 2}, "OpenELIS Global": {"2024": 5}, "Project Mesa": {"2024": 3}, "City of Boston": {"2024": 4}, "The P4 Language Consortium": {"2024": 4}, "stdlib": {"2024": 4}, "Open Chromosome Collective": {"2024": 3}, "Waycrate": {"2024": 3}, "Prometheus-Operator": {"2024": 3}, "C2SI": {"2024": 14}, "Unicode, Inc.": {"2024": 4}, "Open Transit Software Foundation": {"2024": 5}, "Alaska": {"2024": 4}, "Data for the Common Good": {"2024": 4}, "Graphite": {"2024": 3}, "Open HealthCare Network": {"2024": 4}, "LAPPIS": {"2024": 4}, "Zendalona": {"2024": 4}, "Mautic": {"2024": 2}, "Nightwatch.js": {"2024": 2}, "AsyncAPI": {"2024": 4}, "API Dash": {"2024": 1}, "QC-Devs": {"2024": 2}}
+ 
+{
+  "52°North Initiative for Geospatial Open Source Software GmbH": {
+    "2016": 3,
+    "2017": 1,
+    "2019": 2
+  },
+  "aimacode": {
+    "2016": 3,
+    "2017": 4,
+    "2018": 5,
+    "2019": 4
+  },
+  "AOSSIE - The Australian National University's Open-Source Software Innovation and Education": {
+    "2016": 6
+  },
+  "Apache Software Foundation": {
+    "2016": 35,
+    "2017": 23,
+    "2018": 23,
+    "2022": 33,
+    "2023": 25,
+    "2024": 22
+  },
+  "ArchC": {
+    "2016": 2
+  },
+  "ASCEND": {
+    "2016": 3
+  },
+  "BeagleBoard.org": {
+    "2016": 6,
+    "2019": 3,
+    "2020": 4,
+    "2022": 4,
+    "2023": 4,
+    "2024": 4
+  },
+  "Beam Community": {
+    "2016": 6,
+    "2017": 7,
+    "2018": 6
+  },
+  "Berkman Center for Internet and Society": {
+    "2016": 10
+  },
+  "BioJS": {
+    "2016": 3
+  },
+  "Biomedical Informatics, Emory University": {
+    "2016": 5,
+    "2019": 4
+  },
+  "Blender Foundation": {
+    "2016": 8,
+    "2017": 5,
+    "2018": 5,
+    "2019": 7,
+    "2020": 9,
+    "2021": 8,
+    "2022": 3,
+    "2023": 5,
+    "2024": 6
+  },
+  "Boston University / XIA": {
+    "2016": 2,
+    "2017": 2,
+    "2018": 4
+  },
+  "BRL-CAD": {
+    "2016": 9,
+    "2017": 8,
+    "2018": 7,
+    "2019": 8,
+    "2020": 8,
+    "2021": 6,
+    "2022": 7,
+    "2023": 5,
+    "2024": 9
+  },
+  "BuildmLearn": {
+    "2016": 4
+  },
+  "Canadian Centre for Computational Genomics (C3G) - Montreal node": {
+    "2016": 3
+  },
+  "Catrobat": {
+    "2016": 7,
+    "2017": 5,
+    "2018": 5,
+    "2019": 9,
+    "2020": 12
+  },
+  "cBioPortal for Cancer Genomics": {
+    "2016": 5,
+    "2017": 6,
+    "2019": 6,
+    "2022": 2,
+    "2023": 6,
+    "2024": 9
+  },
+  "CCExtractor Development": {
+    "2016": 6,
+    "2017": 6,
+    "2018": 6,
+    "2019": 10,
+    "2020": 8,
+    "2021": 9,
+    "2022": 10,
+    "2023": 7,
+    "2024": 9
+  },
+  "Celluloid": {
+    "2016": 3
+  },
+  "Ceph": {
+    "2016": 4,
+    "2017": 4,
+    "2021": 7,
+    "2022": 1,
+    "2023": 3,
+    "2024": 3
+  },
+  "CERN SFT": {
+    "2016": 10
+  },
+  "Chapel": {
+    "2016": 2,
+    "2017": 3,
+    "2019": 4,
+    "2020": 4,
+    "2021": 3
+  },
+  "CiviCRM": {
+    "2016": 8,
+    "2019": 2,
+    "2020": 4
+  },
+  "Classical Language Toolkit": {
+    "2016": 2,
+    "2017": 2,
+    "2018": 3
+  },
+  "CloudCV": {
+    "2016": 2,
+    "2017": 4,
+    "2018": 5,
+    "2019": 4,
+    "2020": 3,
+    "2021": 3,
+    "2023": 2,
+    "2024": 2
+  },
+  "Computational Biology @ University of Nebraska-Lincoln": {
+    "2016": 5,
+    "2017": 4,
+    "2018": 4,
+    "2019": 5
+  },
+  "Computational Science and Engineering at TU Wien": {
+    "2016": 10
+  },
+  "Copyleft Games": {
+    "2016": 2,
+    "2017": 2
+  },
+  "coreboot": {
+    "2016": 3,
+    "2019": 3,
+    "2020": 2,
+    "2022": 1,
+    "2023": 2
+  },
+  "CVXPY": {
+    "2016": 1
+  },
+  "D Foundation": {
+    "2016": 4
+  },
+  "dbpediaspotlight": {
+    "2016": 8
+  },
+  "Debian Project": {
+    "2016": 20,
+    "2018": 22
+  },
+  "Discourse": {
+    "2016": 2,
+    "2017": 4
+  },
+  "Distributed and Unified Numerics Environment (DUNE)": {
+    "2016": 2
+  },
+  "Django Software Foundation": {
+    "2016": 1,
+    "2017": 0,
+    "2018": 0,
+    "2019": 2,
+    "2020": 2,
+    "2021": 4,
+    "2022": 2,
+    "2023": 1,
+    "2024": 4
+  },
+  "Drupal": {
+    "2016": 9,
+    "2017": 6,
+    "2018": 1,
+    "2019": 2,
+    "2020": 1
+  },
+  "Eclipse Foundation": {
+    "2016": 11,
+    "2020": 7,
+    "2022": 5,
+    "2023": 6,
+    "2024": 6
+  },
+  "Fedora Project": {
+    "2016": 6,
+    "2017": 5,
+    "2018": 5,
+    "2019": 5,
+    "2020": 4
+  },
+  "FFmpeg": {
+    "2016": 7,
+    "2017": 6,
+    "2018": 5,
+    "2019": 6,
+    "2020": 5,
+    "2021": 5,
+    "2022": 2,
+    "2023": 3,
+    "2024": 7
+  },
+  "FOSDEM VZW": {
+    "2016": 1
+  },
+  "FOSSASIA": {
+    "2016": 18,
+    "2017": 51,
+    "2018": 32,
+    "2019": 14,
+    "2024": 8
+  },
+  "Free and Open Source Silicon Foundation": {
+    "2016": 3,
+    "2017": 4,
+    "2018": 6,
+    "2019": 7,
+    "2020": 4,
+    "2021": 11,
+    "2022": 8,
+    "2023": 5,
+    "2024": 7
+  },
+  "FreeBSD": {
+    "2016": 12,
+    "2017": 5,
+    "2018": 8,
+    "2019": 6
+  },
+  "Freifunk": {
+    "2016": 8,
+    "2017": 12
+  },
+  "Gambit - Software Tools for Game Theory": {
+    "2016": 3
+  },
+  "Ganeti": {
+    "2016": 1
+  },
+  "Genes, Genomes and Variation": {
+    "2016": 2,
+    "2017": 5,
+    "2018": 2,
+    "2019": 3
+  },
+  "Gentoo Foundation": {
+    "2016": 5,
+    "2017": 3,
+    "2018": 2,
+    "2019": 2,
+    "2020": 4,
+    "2021": 2,
+    "2022": 4,
+    "2023": 3
+  },
+  "Git": {
+    "2016": 1,
+    "2017": 1,
+    "2018": 3,
+    "2019": 2,
+    "2020": 3,
+    "2021": 2,
+    "2022": 2,
+    "2023": 2,
+    "2024": 3
+  },
+  "GitHub": {
+    "2016": 4
+  },
+  "Global Alliance for Genomics & Health": {
+    "2016": 3
+  },
+  "GNOME": {
+    "2016": 18,
+    "2017": 19,
+    "2018": 13,
+    "2019": 8,
+    "2020": 14
+  },
+  "gnss-sdr": {
+    "2016": 3
+  },
+  "GNU Mailman": {
+    "2016": 3,
+    "2019": 1
+  },
+  "GNU Octave": {
+    "2016": 5,
+    "2017": 4,
+    "2018": 3,
+    "2019": 0,
+    "2020": 1,
+    "2021": 1,
+    "2022": 3,
+    "2023": 2,
+    "2024": 3
+  },
+  "GNU Project": {
+    "2016": 15,
+    "2018": 9,
+    "2023": 7,
+    "2024": 6
+  },
+  "GNU Radio": {
+    "2016": 2,
+    "2017": 2,
+    "2018": 2,
+    "2019": 2,
+    "2020": 1,
+    "2021": 1,
+    "2022": 1,
+    "2023": 1,
+    "2024": 2
+  },
+  "GPAC": {
+    "2016": 1,
+    "2020": 0
+  },
+  "Green Navigation": {
+    "2016": 3,
+    "2017": 5
+  },
+  "gRPC": {
+    "2016": 2,
+    "2018": 1
+  },
+  "Health Information Systems Programme": {
+    "2016": 6
+  },
+  "Homebrew": {
+    "2016": 4,
+    "2017": 2,
+    "2018": 1,
+    "2020": 3,
+    "2022": 1
+  },
+  "Inclusive Design Institute": {
+    "2016": 4,
+    "2018": 5,
+    "2020": 2
+  },
+  "Indic Project": {
+    "2016": 7
+  },
+  "Inkscape": {
+    "2016": 2,
+    "2017": 2,
+    "2018": 0,
+    "2019": 1,
+    "2020": 3,
+    "2021": 6,
+    "2022": 3,
+    "2023": 2,
+    "2024": 3
+  },
+  "International Neuroinformatics Coordinating Facility": {
+    "2016": 12
+  },
+  "Java Pathfinder Team": {
+    "2016": 10
+  },
+  "JBoss Community": {
+    "2016": 9,
+    "2017": 3,
+    "2018": 3,
+    "2019": 8,
+    "2020": 10,
+    "2021": 10,
+    "2022": 9
+  },
+  "Jenkins Project": {
+    "2016": 1
+  },
+  "Joomla!": {
+    "2016": 5,
+    "2018": 7,
+    "2021": 5,
+    "2022": 4
+  },
+  "jQuery Foundation": {
+    "2016": 7
+  },
+  "JSK Robotics Laboratory": {
+    "2016": 0,
+    "2017": 2
+  },
+  "KDE": {
+    "2016": 32,
+    "2017": 24
+  },
+  "KolibriOS": {
+    "2016": 4
+  },
+  "LabLua": {
+    "2016": 8,
+    "2017": 6,
+    "2018": 5,
+    "2019": 5,
+    "2020": 6,
+    "2021": 4,
+    "2024": 4
+  },
+  "LibreOffice": {
+    "2016": 9,
+    "2017": 9,
+    "2018": 7,
+    "2019": 6,
+    "2020": 6,
+    "2021": 7,
+    "2022": 2,
+    "2023": 5,
+    "2024": 8
+  },
+  "Libvirt": {
+    "2016": 4,
+    "2019": 3
+  },
+  "Liquid Galaxy Project": {
+    "2016": 4,
+    "2017": 3
+  },
+  "lowRISC": {
+    "2016": 4,
+    "2017": 4,
+    "2020": 2
+  },
+  "MariaDB": {
+    "2016": 5,
+    "2017": 1,
+    "2022": 6,
+    "2023": 5,
+    "2024": 6
+  },
+  "Matrix.org": {
+    "2016": 2,
+    "2017": 3,
+    "2018": 2,
+    "2019": 4,
+    "2021": 7,
+    "2022": 5
+  },
+  "MBDyn, Department of Aerospace Science and Technology at Politecnico di Milano": {
+    "2016": 3
+  },
+  "McGill Space Institute": {
+    "2016": 3
+  },
+  "MetaBrainz Foundation": {
+    "2016": 4
+  },
+  "Mifos Initiative": {
+    "2016": 6,
+    "2017": 10
+  },
+  "MIT Media Lab": {
+    "2016": 5
+  },
+  "Mixxx DJ Software": {
+    "2016": 2,
+    "2017": 2,
+    "2018": 2
+  },
+  "mlpack: a scalable C++ machine learning library": {
+    "2016": 6
+  },
+  "Mobile Robot Programming Toolkit (MRPT)": {
+    "2016": 3,
+    "2017": 4,
+    "2018": 1
+  },
+  "ModSecurity": {
+    "2016": 3
+  },
+  "Moodle": {
+    "2016": 4,
+    "2017": 1,
+    "2018": 0,
+    "2019": 2
+  },
+  "MovingBlocks": {
+    "2016": 3,
+    "2017": 10,
+    "2018": 9
+  },
+  "Mozilla": {
+    "2016": 13,
+    "2017": 21,
+    "2018": 16,
+    "2019": 14,
+    "2020": 11
+  },
+  "MuseScore": {
+    "2016": 3,
+    "2017": 3,
+    "2018": 3,
+    "2019": 4,
+    "2020": 3,
+    "2021": 3,
+    "2022": 2,
+    "2023": 1,
+    "2024": 2
+  },
+  "National Resource for Network Biology (NRNB)": {
+    "2016": 15,
+    "2017": 20,
+    "2018": 10,
+    "2019": 11,
+    "2020": 15,
+    "2021": 13,
+    "2022": 8,
+    "2023": 8,
+    "2024": 11
+  },
+  "Netfilter project": {
+    "2016": 3,
+    "2017": 2,
+    "2018": 3,
+    "2019": 3
+  },
+  "Nmap Security Scanner": {
+    "2016": 5,
+    "2017": 4
+  },
+  "NumFOCUS": {
+    "2016": 7,
+    "2017": 10,
+    "2018": 40,
+    "2019": 19,
+    "2020": 28,
+    "2021": 45,
+    "2022": 37,
+    "2023": 24,
+    "2024": 37
+  },
+  "Open Bioinformatics Foundation": {
+    "2016": 7,
+    "2017": 7,
+    "2018": 5,
+    "2019": 5,
+    "2021": 8
+  },
+  "Open Chemistry": {
+    "2016": 2,
+    "2017": 6,
+    "2018": 7,
+    "2019": 6,
+    "2020": 5,
+    "2021": 7,
+    "2022": 9,
+    "2023": 8,
+    "2024": 1
+  },
+  "Open Detection": {
+    "2016": 2,
+    "2017": 2
+  },
+  "Open Ephys": {
+    "2016": 2
+  },
+  "Open Genome Informatics": {
+    "2016": 6,
+    "2017": 8,
+    "2020": 5,
+    "2021": 6,
+    "2022": 2,
+    "2023": 1
+  },
+  "Open Source Robotics Foundation": {
+    "2016": 7,
+    "2018": 4,
+    "2019": 7,
+    "2020": 7
+  },
+  "OpenAstronomy": {
+    "2016": 7,
+    "2017": 8,
+    "2018": 8,
+    "2020": 10,
+    "2022": 8,
+    "2023": 6,
+    "2024": 8
+  },
+  "OpenCV": {
+    "2016": 11,
+    "2017": 15,
+    "2019": 8,
+    "2020": 14,
+    "2021": 11,
+    "2022": 10,
+    "2023": 10,
+    "2024": 7
+  },
+  "OpenKeychain (OpenPGP for Android)": {
+    "2016": 2
+  },
+  "OpenMRS": {
+    "2016": 9,
+    "2017": 15,
+    "2018": 10,
+    "2019": 12,
+    "2020": 9,
+    "2021": 11,
+    "2022": 5,
+    "2023": 9,
+    "2024": 6
+  },
+  "OpenStreetMap": {
+    "2016": 4,
+    "2017": 5,
+    "2018": 5,
+    "2019": 5,
+    "2020": 4,
+    "2021": 4,
+    "2022": 4,
+    "2023": 4,
+    "2024": 4
+  },
+  "openSUSE": {
+    "2016": 6,
+    "2017": 5,
+    "2018": 2
+  },
+  "Oppia Foundation": {
+    "2016": 1,
+    "2017": 3,
+    "2018": 7,
+    "2019": 4,
+    "2020": 12,
+    "2021": 18,
+    "2022": 14,
+    "2023": 5,
+    "2024": 8
+  },
+  "Orange – Data Mining Fruitful & Fun": {
+    "2016": 5
+  },
+  "OSGeo - The Open Source Geospatial Foundation": {
+    "2016": 20
+  },
+  "OSU Open Source Lab": {
+    "2016": 1
+  },
+  "OWASP Foundation": {
+    "2016": 5,
+    "2018": 8,
+    "2019": 12,
+    "2020": 12,
+    "2021": 14,
+    "2022": 15,
+    "2023": 11,
+    "2024": 12
+  },
+  "ownCloud": {
+    "2016": 2,
+    "2017": 3
+  },
+  "P2PSP.org": {
+    "2016": 2,
+    "2017": 2,
+    "2018": 1
+  },
+  "Peragro": {
+    "2016": 0
+  },
+  "Performance Co-Pilot": {
+    "2016": 2,
+    "2017": 5,
+    "2018": 5,
+    "2019": 2,
+    "2020": 3,
+    "2022": 2
+  },
+  "Physical Web Project": {
+    "2016": 3,
+    "2017": 5
+  },
+  "PLASMA-UMass": {
+    "2016": 1
+  },
+  "Plone Foundation": {
+    "2016": 3,
+    "2017": 4,
+    "2022": 4,
+    "2023": 5,
+    "2024": 3
+  },
+  "Portland State University": {
+    "2016": 6,
+    "2017": 7
+  },
+  "PRISM Model Checker": {
+    "2016": 5
+  },
+  "Public Lab": {
+    "2016": 5,
+    "2017": 5,
+    "2018": 9,
+    "2019": 12,
+    "2021": 4,
+    "2022": 3
+  },
+  "Python Software Foundation": {
+    "2016": 49,
+    "2017": 29,
+    "2018": 14,
+    "2019": 30,
+    "2020": 24,
+    "2021": 34,
+    "2022": 28,
+    "2023": 22,
+    "2024": 30
+  },
+  "QEMU": {
+    "2016": 6,
+    "2017": 4,
+    "2018": 4,
+    "2019": 3,
+    "2020": 3,
+    "2021": 6,
+    "2022": 4,
+    "2023": 6
+  },
+  "R project for statistical computing": {
+    "2016": 22,
+    "2017": 33,
+    "2018": 24,
+    "2019": 30,
+    "2022": 13,
+    "2023": 9,
+    "2024": 18
+  },
+  "radare": {
+    "2016": 3,
+    "2018": 5
+  },
+  "ReactOS": {
+    "2016": 4,
+    "2017": 4,
+    "2018": 1,
+    "2019": 2,
+    "2020": 3,
+    "2021": 1
+  },
+  "Red Hen Lab": {
+    "2016": 5,
+    "2017": 9,
+    "2018": 10,
+    "2019": 15,
+    "2020": 8,
+    "2021": 12,
+    "2022": 12,
+    "2023": 5,
+    "2024": 12
+  },
+  "Robocomp": {
+    "2016": 5
+  },
+  "RTEMS Project": {
+    "2016": 5,
+    "2017": 4,
+    "2018": 4,
+    "2019": 4,
+    "2020": 5,
+    "2021": 4,
+    "2022": 4,
+    "2023": 3,
+    "2024": 6
+  },
+  "Ruby": {
+    "2016": 12,
+    "2018": 5,
+    "2019": 5,
+    "2020": 4,
+    "2021": 5,
+    "2022": 3,
+    "2023": 4
+  },
+  "Ruby Science Foundation": {
+    "2016": 4,
+    "2017": 3,
+    "2018": 4,
+    "2019": 2
+  },
+  "Sage Mathematical Software System": {
+    "2016": 5,
+    "2017": 5,
+    "2018": 5
+  },
+  "Scala": {
+    "2016": 9,
+    "2017": 8,
+    "2018": 1
+  },
+  "Scilab Enterprises": {
+    "2016": 5
+  },
+  "ScummVM": {
+    "2016": 3,
+    "2017": 2,
+    "2018": 3,
+    "2019": 3,
+    "2020": 4,
+    "2021": 5,
+    "2022": 3,
+    "2023": 4,
+    "2024": 4
+  },
+  "Shogun Machine Learning Toolbox": {
+    "2016": 3,
+    "2017": 4
+  },
+  "Sigmah": {
+    "2016": 1,
+    "2017": 2
+  },
+  "Soletta Project": {
+    "2016": 3
+  },
+  "Stony Brook University Biomedical Informatics": {
+    "2016": 4,
+    "2018": 2
+  },
+  "strace": {
+    "2016": 4,
+    "2017": 4,
+    "2018": 2,
+    "2019": 2,
+    "2020": 1,
+    "2021": 1,
+    "2022": 1
+  },
+  "Sugar Labs": {
+    "2016": 5,
+    "2017": 9,
+    "2018": 11,
+    "2019": 8,
+    "2020": 9,
+    "2021": 8,
+    "2022": 9,
+    "2023": 8,
+    "2024": 11
+  },
+  "Sustainable Computing Research Group ( SCoRe )": {
+    "2016": 7,
+    "2017": 16
+  },
+  "SymPy": {
+    "2016": 7,
+    "2017": 8,
+    "2018": 7,
+    "2019": 10,
+    "2020": 6,
+    "2021": 6,
+    "2022": 3,
+    "2023": 5,
+    "2024": 5
+  },
+  "Systers, an Anita Borg Institute Community": {
+    "2016": 19
+  },
+  "TARDIS-SN": {
+    "2016": 3,
+    "2020": 3
+  },
+  "TEAMMATES @ National University of Singapore": {
+    "2016": 7,
+    "2017": 8,
+    "2018": 5
+  },
+  "The Apertium Project": {
+    "2016": 11
+  },
+  "The Center for Connected Learning and Computer-Based Modeling": {
+    "2016": 1,
+    "2017": 1,
+    "2018": 2,
+    "2019": 1
+  },
+  "The Honeynet Project": {
+    "2016": 11,
+    "2017": 12,
+    "2018": 17,
+    "2019": 9,
+    "2020": 11,
+    "2021": 11,
+    "2022": 6,
+    "2023": 6,
+    "2024": 9
+  },
+  "The Julia Language": {
+    "2016": 10,
+    "2017": 16,
+    "2019": 13,
+    "2020": 15,
+    "2021": 20,
+    "2022": 19,
+    "2023": 14,
+    "2024": 20
+  },
+  "The Linux Foundation": {
+    "2016": 11,
+    "2017": 11,
+    "2018": 12,
+    "2019": 7,
+    "2020": 13,
+    "2021": 18,
+    "2022": 14,
+    "2023": 11,
+    "2024": 21
+  },
+  "The LLVM Compiler Infrastructure": {
+    "2016": 7,
+    "2020": 15,
+    "2021": 16
+  },
+  "The Monarch Initiative": {
+    "2016": 1
+  },
+  "The NetBSD Foundation": {
+    "2016": 4,
+    "2017": 3,
+    "2018": 4,
+    "2019": 7,
+    "2020": 6,
+    "2021": 0,
+    "2022": 5,
+    "2023": 2,
+    "2024": 4
+  },
+  "The STE||AR Group": {
+    "2016": 4
+  },
+  "The syslog-ng project": {
+    "2016": 4
+  },
+  "The Tor Project": {
+    "2016": 5,
+    "2022": 3,
+    "2023": 4
+  },
+  "The Wine Project": {
+    "2016": 2,
+    "2017": 0,
+    "2018": 2,
+    "2019": 0,
+    "2020": 0
+  },
+  "Timelab Technologies Ltd.": {
+    "2016": 3
+  },
+  "TimVideos.us": {
+    "2016": 2,
+    "2018": 2,
+    "2019": 0
+  },
+  "Unitex/GramLab": {
+    "2016": 2
+  },
+  "Urban Energy Systems Laboratory, Empa": {
+    "2016": 3,
+    "2017": 3
+  },
+  "Vert.x": {
+    "2016": 3
+  },
+  "VideoLAN / VLMC Project": {
+    "2016": 3
+  },
+  "vitrivr": {
+    "2016": 3,
+    "2018": 1,
+    "2021": 2
+  },
+  "Wayland": {
+    "2016": 1
+  },
+  "Wikimedia Foundation": {
+    "2016": 6,
+    "2017": 7,
+    "2018": 12,
+    "2019": 11,
+    "2020": 14,
+    "2021": 10,
+    "2022": 7,
+    "2023": 9,
+    "2024": 9
+  },
+  "WSO2": {
+    "2016": 11,
+    "2017": 9
+  },
+  "X.Org Foundation": {
+    "2016": 2,
+    "2017": 4,
+    "2019": 2,
+    "2020": 1,
+    "2022": 3,
+    "2023": 5
+  },
+  "Xapian Search Engine Library": {
+    "2016": 5,
+    "2017": 3,
+    "2018": 2,
+    "2019": 3,
+    "2020": 2
+  },
+  "XWiki": {
+    "2016": 0,
+    "2017": 2,
+    "2018": 3,
+    "2019": 3,
+    "2020": 1,
+    "2021": 1,
+    "2022": 1,
+    "2023": 1
+  },
+  "Zulip Open Source Project": {
+    "2016": 3,
+    "2019": 17
+  },
+  "AboutCode": {
+    "2017": 4,
+    "2021": 4,
+    "2022": 5,
+    "2023": 2,
+    "2024": 4
+  },
+  "AerospaceResearch.net": {
+    "2017": 6,
+    "2018": 6,
+    "2019": 7,
+    "2020": 5,
+    "2021": 6
+  },
+  "Amahi": {
+    "2017": 3,
+    "2018": 5,
+    "2019": 7,
+    "2020": 3
+  },
+  "AOSSIE - Australian Open Source Software Innovation and Education": {
+    "2017": 13,
+    "2018": 13,
+    "2019": 18
+  },
+  "Apertium": {
+    "2017": 10,
+    "2018": 11,
+    "2019": 10,
+    "2020": 7,
+    "2021": 10,
+    "2023": 5,
+    "2024": 4
+  },
+  "Apertus Association": {
+    "2017": 1,
+    "2018": 4,
+    "2022": 0
+  },
+  "appleseedhq": {
+    "2017": 3,
+    "2018": 3,
+    "2019": 2
+  },
+  "ArduPilot": {
+    "2017": 3,
+    "2018": 5,
+    "2020": 5,
+    "2021": 3,
+    "2022": 4,
+    "2023": 4,
+    "2024": 4
+  },
+  "Babel": {
+    "2017": 2
+  },
+  "Bazel": {
+    "2017": 0,
+    "2019": 2
+  },
+  "BeagleBoard.org Foundation": {
+    "2017": 6,
+    "2018": 3,
+    "2021": 6
+  },
+  "BeeWare Project": {
+    "2017": 3,
+    "2018": 2
+  },
+  "Berkman Klein Center for Internet and Society at Harvard University": {
+    "2017": 5
+  },
+  "Boost C++ Libraries": {
+    "2017": 4,
+    "2018": 9,
+    "2021": 8
+  },
+  "Cadasta": {
+    "2017": 1
+  },
+  "CERN-HSF": {
+    "2017": 20,
+    "2018": 26,
+    "2019": 29,
+    "2020": 34,
+    "2021": 25,
+    "2022": 21,
+    "2023": 16,
+    "2024": 19
+  },
+  "Checker Framework": {
+    "2017": 5,
+    "2018": 3,
+    "2019": 5,
+    "2020": 2
+  },
+  "Checkstyle": {
+    "2017": 5,
+    "2020": 3,
+    "2021": 2
+  },
+  "CLiPS, University of Antwerp": {
+    "2017": 2,
+    "2018": 4,
+    "2019": 4
+  },
+  "Clojure": {
+    "2017": 0
+  },
+  "Cloud Native Computing Foundation (CNCF)": {
+    "2017": 6,
+    "2018": 7,
+    "2019": 15,
+    "2020": 17
+  },
+  "CMU Sphinx": {
+    "2017": 11
+  },
+  "coala": {
+    "2017": 9,
+    "2018": 14,
+    "2019": 10,
+    "2021": 4
+  },
+  "Conversations.im": {
+    "2017": 1,
+    "2018": 3
+  },
+  "DBpedia": {
+    "2017": 7,
+    "2018": 3,
+    "2019": 6,
+    "2020": 7,
+    "2021": 10,
+    "2022": 4,
+    "2023": 6,
+    "2024": 6
+  },
+  "Eclipse Vert.x": {
+    "2017": 3
+  },
+  "Elm Software Foundation": {
+    "2017": 1
+  },
+  "Environmental Data And Governance Initiative": {
+    "2017": 2
+  },
+  "FOSDEM": {
+    "2017": 1,
+    "2019": 2
+  },
+  "Frescobaldi": {
+    "2017": 2
+  },
+  "GENIVI Development Platform": {
+    "2017": 0
+  },
+  "Global Alliance for Genomics and Health": {
+    "2017": 2,
+    "2018": 4,
+    "2019": 5,
+    "2020": 4,
+    "2021": 7,
+    "2022": 8,
+    "2023": 7,
+    "2024": 6
+  },
+  "GNSS-SDR": {
+    "2017": 5,
+    "2018": 5,
+    "2019": 3,
+    "2020": 2,
+    "2021": 1,
+    "2022": 3,
+    "2024": 3
+  },
+  "Haiku": {
+    "2017": 5,
+    "2018": 2,
+    "2019": 1,
+    "2020": 4,
+    "2021": 3,
+    "2022": 3,
+    "2023": 3,
+    "2024": 5
+  },
+  "illumos.org": {
+    "2017": 0
+  },
+  "INCF": {
+    "2017": 13,
+    "2018": 16,
+    "2019": 17,
+    "2020": 21,
+    "2021": 21,
+    "2022": 35,
+    "2023": 22,
+    "2024": 28
+  },
+  "Institute for Artificial Intelligence": {
+    "2017": 5,
+    "2018": 6
+  },
+  "Intel Media and Audio for Linux": {
+    "2017": 2
+  },
+  "Internet Archive": {
+    "2017": 2,
+    "2018": 5,
+    "2019": 2,
+    "2020": 3,
+    "2021": 2,
+    "2023": 5,
+    "2024": 3
+  },
+  "JdeRobot - Universidad Rey Juan Carlos": {
+    "2017": 4,
+    "2018": 5,
+    "2019": 6,
+    "2020": 5,
+    "2021": 6
+  },
+  "Jitsi": {
+    "2017": 3,
+    "2018": 3,
+    "2022": 6,
+    "2024": 4
+  },
+  "Joomla": {
+    "2017": 8,
+    "2019": 3
+  },
+  "K-9 Mail": {
+    "2017": 2
+  },
+  "LibreHealth": {
+    "2017": 4,
+    "2018": 9,
+    "2019": 0,
+    "2020": 4,
+    "2021": 5,
+    "2022": 4,
+    "2023": 5
+  },
+  "libvirt": {
+    "2017": 1,
+    "2018": 2,
+    "2020": 4,
+    "2021": 1,
+    "2022": 2,
+    "2024": 2
+  },
+  "LLVM Compiler Infrastructure": {
+    "2017": 8,
+    "2018": 8,
+    "2019": 8,
+    "2022": 13,
+    "2023": 20,
+    "2024": 14
+  },
+  "LuaRocks": {
+    "2017": 1,
+    "2018": 2,
+    "2019": 2
+  },
+  "MBDyn": {
+    "2017": 2,
+    "2020": 1,
+    "2021": 2,
+    "2022": 1,
+    "2024": 1
+  },
+  "MetaBrainz Foundation Inc.": {
+    "2017": 5,
+    "2018": 5,
+    "2020": 7
+  },
+  "Metasploit": {
+    "2017": 2,
+    "2018": 5,
+    "2020": 2,
+    "2021": 1,
+    "2022": 1,
+    "2023": 1
+  },
+  "Microkernel devroom": {
+    "2017": 3
+  },
+  "MIT App Inventor": {
+    "2017": 4,
+    "2019": 4,
+    "2020": 6,
+    "2021": 5,
+    "2022": 5,
+    "2023": 6,
+    "2024": 5
+  },
+  "mlpack": {
+    "2017": 10,
+    "2018": 6,
+    "2019": 9,
+    "2020": 8,
+    "2021": 8,
+    "2022": 4,
+    "2023": 3,
+    "2024": 6
+  },
+  "Mono Project": {
+    "2017": 9
+  },
+  "Open Data Kit": {
+    "2017": 1,
+    "2018": 2,
+    "2019": 2
+  },
+  "Open States": {
+    "2017": 1,
+    "2018": 0
+  },
+  "Open Technologies Alliance - GFOSS": {
+    "2017": 4,
+    "2022": 9,
+    "2023": 7,
+    "2024": 10
+  },
+  "OpenWISP": {
+    "2017": 5,
+    "2018": 2,
+    "2019": 2,
+    "2020": 3,
+    "2021": 5,
+    "2022": 2,
+    "2023": 1,
+    "2024": 2
+  },
+  "OSGeo": {
+    "2017": 13,
+    "2018": 10,
+    "2019": 7,
+    "2020": 10
+  },
+  "oVirt": {
+    "2017": 2
+  },
+  "PEcAn Project": {
+    "2017": 3,
+    "2018": 1,
+    "2019": 2,
+    "2020": 3,
+    "2021": 4,
+    "2022": 5,
+    "2023": 4,
+    "2024": 4
+  },
+  "Pharo Consortium": {
+    "2017": 5,
+    "2019": 7,
+    "2021": 6,
+    "2023": 6
+  },
+  "phpBB Forum Software": {
+    "2017": 2,
+    "2018": 2
+  },
+  "phpMyAdmin": {
+    "2017": 3,
+    "2018": 4,
+    "2019": 2
+  },
+  "PMD": {
+    "2017": 2,
+    "2018": 1
+  },
+  "Polly Labs": {
+    "2017": 1,
+    "2018": 3
+  },
+  "PostgreSQL": {
+    "2017": 4,
+    "2018": 3,
+    "2019": 4,
+    "2020": 3,
+    "2021": 6,
+    "2022": 7,
+    "2023": 12,
+    "2024": 5
+  },
+  "Qubes OS": {
+    "2017": 2,
+    "2020": 1,
+    "2021": 1
+  },
+  "radare2": {
+    "2017": 3
+  },
+  "RoboComp": {
+    "2017": 9,
+    "2018": 8,
+    "2019": 10,
+    "2020": 10,
+    "2021": 10,
+    "2022": 5
+  },
+  "Rocket.Chat": {
+    "2017": 4,
+    "2018": 7,
+    "2019": 15,
+    "2020": 7,
+    "2021": 12
+  },
+  "Rspamd": {
+    "2017": 1,
+    "2018": 0
+  },
+  "Ruby on Rails": {
+    "2017": 2,
+    "2018": 2
+  },
+  "Samba": {
+    "2017": 1,
+    "2019": 1,
+    "2020": 1,
+    "2021": 0
+  },
+  "Scilab": {
+    "2017": 5,
+    "2018": 4
+  },
+  "Software Product Data Exchange (SPDX)": {
+    "2017": 4
+  },
+  "STE||AR Group": {
+    "2017": 4,
+    "2018": 4,
+    "2021": 2
+  },
+  "Stony Brook University, Biomedical Informatics": {
+    "2017": 3
+  },
+  "Systers, an Anita Borg Institute community": {
+    "2017": 11
+  },
+  "The CGAL Project": {
+    "2017": 4
+  },
+  "The Eclipse Foundation": {
+    "2017": 10,
+    "2018": 7,
+    "2019": 10
+  },
+  "The FreeType Project": {
+    "2017": 2
+  },
+  "The GNU Project": {
+    "2017": 13,
+    "2019": 5,
+    "2020": 7
+  },
+  "The Java Pathfinder Team": {
+    "2017": 7,
+    "2018": 4,
+    "2019": 6,
+    "2020": 6
+  },
+  "The Libreswan Project": {
+    "2017": 2,
+    "2018": 3,
+    "2019": 1,
+    "2020": 3,
+    "2021": 1,
+    "2022": 0
+  },
+  "The MacPorts Project": {
+    "2017": 2,
+    "2018": 0
+  },
+  "The ns-3 Network Simulator Project": {
+    "2017": 5,
+    "2018": 5,
+    "2019": 4,
+    "2020": 4,
+    "2021": 3,
+    "2022": 2,
+    "2023": 3,
+    "2024": 3
+  },
+  "The Processing Foundation": {
+    "2017": 14,
+    "2018": 16,
+    "2019": 16
+  },
+  "Tiled": {
+    "2017": 3
+  },
+  "TimVideos": {
+    "2017": 2
+  },
+  "Tor": {
+    "2017": 4
+  },
+  "UCSC Xena": {
+    "2017": 1,
+    "2018": 1,
+    "2019": 1
+  },
+  "VideoLAN": {
+    "2017": 9,
+    "2018": 10,
+    "2019": 9,
+    "2020": 8,
+    "2021": 9,
+    "2022": 6,
+    "2023": 10,
+    "2024": 14
+  },
+  "ViSP": {
+    "2017": 1,
+    "2018": 2
+  },
+  "WorldBrain - Verifying the Internet with Science": {
+    "2017": 1
+  },
+  "wxWidgets": {
+    "2017": 2
+  },
+  "XBMC Foundation": {
+    "2017": 3,
+    "2018": 2
+  },
+  "Xen Project": {
+    "2017": 2
+  },
+  "XMPP Standards Foundation": {
+    "2017": 2,
+    "2020": 2,
+    "2022": 1,
+    "2023": 2,
+    "2024": 2
+  },
+  "Zenodo": {
+    "2017": 2
+  },
+  "Zulip": {
+    "2017": 10,
+    "2018": 10,
+    "2020": 18,
+    "2021": 18,
+    "2022": 15,
+    "2023": 13,
+    "2024": 17
+  },
+  "3DTK": {
+    "2018": 2
+  },
+  "52° North Initiative for Geospatial Open Source Software GmbH": {
+    "2018": 1
+  },
+  "Berkman Klein Center for Internet & Society at Harvard University": {
+    "2018": 2
+  },
+  "Canadian Centre for Computational Genomics": {
+    "2018": 3,
+    "2020": 5
+  },
+  "Center for Research In Open Source Software (CROSS) at UC Santa Cruz": {
+    "2018": 2
+  },
+  "CGAL Project": {
+    "2018": 7,
+    "2020": 7,
+    "2021": 5,
+    "2022": 6,
+    "2023": 10,
+    "2024": 5
+  },
+  "CHAOSS: Community Health Analytics Open Source Software": {
+    "2018": 2
+  },
+  "CiviCRM LLC": {
+    "2018": 4,
+    "2021": 4
+  },
+  "Cuneiform Digital Library Initiative": {
+    "2018": 2
+  },
+  "Developers Italia": {
+    "2018": 2,
+    "2019": 3
+  },
+  "Digital Impact Alliance": {
+    "2018": 2,
+    "2019": 3
+  },
+  "Earth Science Information Partners (ESIP)": {
+    "2018": 2
+  },
+  "Elastic": {
+    "2018": 2,
+    "2020": 2
+  },
+  "Eta": {
+    "2018": 2
+  },
+  "FOSSology": {
+    "2018": 1,
+    "2020": 3,
+    "2021": 7,
+    "2022": 6,
+    "2023": 5,
+    "2024": 8
+  },
+  "Free UK Genealogy": {
+    "2018": 2
+  },
+  "FreeType": {
+    "2018": 3,
+    "2019": 3,
+    "2020": 3,
+    "2021": 1,
+    "2022": 2,
+    "2023": 3,
+    "2024": 1
+  },
+  "freifunk": {
+    "2018": 12,
+    "2019": 10,
+    "2021": 7,
+    "2022": 8,
+    "2023": 6,
+    "2024": 7
+  },
+  "GENIVI Alliance": {
+    "2018": 1,
+    "2019": 2
+  },
+  "GFOSS - Open Technologies Alliance": {
+    "2018": 10
+  },
+  "GNU Compiler Collection (GCC)": {
+    "2018": 1,
+    "2020": 2,
+    "2021": 3,
+    "2022": 3,
+    "2023": 6,
+    "2024": 7
+  },
+  "Godot Engine": {
+    "2018": 5,
+    "2019": 8,
+    "2020": 6,
+    "2021": 5,
+    "2022": 3
+  },
+  "Haskell.org": {
+    "2018": 15,
+    "2020": 12,
+    "2021": 10,
+    "2022": 10,
+    "2024": 5
+  },
+  "Inria Foundation": {
+    "2018": 2
+  },
+  "Intel Media And Audio For Linux": {
+    "2018": 1,
+    "2019": 2,
+    "2020": 2
+  },
+  "InterMine": {
+    "2018": 6,
+    "2019": 6
+  },
+  "Internet Systems Consortium": {
+    "2018": 2,
+    "2019": 1
+  },
+  "Jenkins project": {
+    "2018": 2,
+    "2019": 5,
+    "2020": 7
+  },
+  "JGraphT": {
+    "2018": 2
+  },
+  "JSK Robotics Laboratory / The University of Tokyo": {
+    "2018": 2,
+    "2019": 0
+  },
+  "KDE Community": {
+    "2018": 17,
+    "2019": 22,
+    "2020": 19,
+    "2021": 15,
+    "2022": 6,
+    "2023": 7,
+    "2024": 10
+  },
+  "Kiwix": {
+    "2018": 2,
+    "2019": 2,
+    "2020": 3,
+    "2021": 3,
+    "2023": 2,
+    "2024": 3
+  },
+  "languagetool.org": {
+    "2018": 2
+  },
+  "LEAP Encryption Access Project": {
+    "2018": 1,
+    "2022": 1
+  },
+  "MariaDB Foundation": {
+    "2018": 1,
+    "2019": 4,
+    "2020": 2,
+    "2021": 4
+  },
+  "Neovim": {
+    "2018": 2,
+    "2019": 2,
+    "2020": 1
+  },
+  "omegaUp.com": {
+    "2018": 1
+  },
+  "Open Food Facts": {
+    "2018": 2,
+    "2022": 4
+  },
+  "Open Roberta Lab": {
+    "2018": 2
+  },
+  "OpenCensus": {
+    "2018": 1
+  },
+  "OpenSIPS": {
+    "2018": 0
+  },
+  "OpnTec": {
+    "2018": 2
+  },
+  "OW2": {
+    "2018": 0
+  },
+  "Plone": {
+    "2018": 4
+  },
+  "Pocket Science Lab": {
+    "2018": 2
+  },
+  "Probot": {
+    "2018": 2
+  },
+  "Purr Data": {
+    "2018": 1,
+    "2019": 1,
+    "2020": 3,
+    "2021": 3,
+    "2022": 1,
+    "2023": 2,
+    "2024": 4
+  },
+  "Python HYDRA": {
+    "2018": 2
+  },
+  "Quill.org": {
+    "2018": 1
+  },
+  "Read the Docs": {
+    "2018": 1,
+    "2019": 2
+  },
+  "Seastar": {
+    "2018": 1
+  },
+  "Software and Computational Systems Lab at LMU Munich": {
+    "2018": 1,
+    "2019": 2,
+    "2023": 4,
+    "2024": 5
+  },
+  "Space @ Virginia Tech": {
+    "2018": 2
+  },
+  "SPDX": {
+    "2018": 4,
+    "2020": 4,
+    "2021": 4,
+    "2022": 2,
+    "2023": 3
+  },
+  "Stemformatics": {
+    "2018": 2
+  },
+  "Streetmix": {
+    "2018": 1
+  },
+  "Submitty": {
+    "2018": 2,
+    "2019": 4,
+    "2020": 3,
+    "2022": 3,
+    "2023": 3,
+    "2024": 4
+  },
+  "Sustainable Computing Research Group (SCoRe)": {
+    "2018": 18
+  },
+  "Swift": {
+    "2018": 0,
+    "2019": 1,
+    "2020": 4,
+    "2021": 5,
+    "2022": 5,
+    "2023": 3,
+    "2024": 4
+  },
+  "Systers Community": {
+    "2018": 11
+  },
+  "The Mifos Initiative": {
+    "2018": 12,
+    "2019": 14,
+    "2020": 17,
+    "2022": 9,
+    "2023": 10,
+    "2024": 11
+  },
+  "The Qt Project": {
+    "2018": 1
+  },
+  "The syslog-ng project.": {
+    "2018": 1
+  },
+  "The Vega Visualization Tools by the UW Interactive Data Lab": {
+    "2018": 2
+  },
+  "TLA+": {
+    "2018": 1
+  },
+  "webpack": {
+    "2018": 3,
+    "2019": 2,
+    "2020": 1,
+    "2024": 3
+  },
+  "WorldBrain.io - Verifying the Internet": {
+    "2018": 3
+  },
+  "X.org Foundation": {
+    "2018": 2
+  },
+  "Xi Editor Project": {
+    "2018": 3
+  },
+  "xpra.org": {
+    "2018": 0
+  },
+  "AboutCode.org": {
+    "2019": 3,
+    "2020": 5
+  },
+  "Android Graphics Tools Team": {
+    "2019": 2,
+    "2020": 3,
+    "2021": 3
+  },
+  "apertus° Association": {
+    "2019": 4,
+    "2020": 4,
+    "2021": 5
+  },
+  "API Client Tools at Google": {
+    "2019": 1
+  },
+  "Ardupilot.org": {
+    "2019": 5
+  },
+  "Berkman Klein Center for Internet and Society": {
+    "2019": 3
+  },
+  "Boost C++": {
+    "2019": 11,
+    "2020": 9
+  },
+  "Buildroot": {
+    "2019": 1
+  },
+  "Canadian Center for Computational Genomics": {
+    "2019": 4
+  },
+  "CBMI@UTHSC": {
+    "2019": 3
+  },
+  "Center for Research in Open Source Software at UC Santa Cruz": {
+    "2019": 4
+  },
+  "CGAL project": {
+    "2019": 9
+  },
+  "CHAOSS": {
+    "2019": 4,
+    "2020": 9,
+    "2022": 5
+  },
+  "CircuitVerse.org": {
+    "2019": 3,
+    "2020": 4,
+    "2021": 6,
+    "2022": 4,
+    "2023": 4,
+    "2024": 5
+  },
+  "Creative Commons": {
+    "2019": 5,
+    "2020": 5,
+    "2023": 1,
+    "2024": 3
+  },
+  "CRIU (Checkpoint/Restore in User-space)": {
+    "2019": 1
+  },
+  "Cuneiform Digital Library Initiative (CDLI)": {
+    "2019": 5,
+    "2020": 9,
+    "2021": 7,
+    "2022": 7
+  },
+  "D Programming Language": {
+    "2019": 5
+  },
+  "Debian": {
+    "2019": 5,
+    "2020": 8,
+    "2021": 5,
+    "2022": 2,
+    "2024": 7
+  },
+  "Earth Science Information Partners": {
+    "2019": 2
+  },
+  "FOSSology Project": {
+    "2019": 3
+  },
+  "FrameNet Brasil at the Federal University of Juiz de Fora": {
+    "2019": 2
+  },
+  "GNU Compiler Collection": {
+    "2019": 6
+  },
+  "gprMax": {
+    "2019": 2,
+    "2021": 4,
+    "2023": 4,
+    "2024": 4
+  },
+  "Haskell.Org": {
+    "2019": 15
+  },
+  "Hydra Ecosystem": {
+    "2019": 2,
+    "2020": 2,
+    "2021": 2
+  },
+  "Institut für Angewandte Informatik (InfAI) e.V.": {
+    "2019": 1
+  },
+  "JabRef": {
+    "2019": 1
+  },
+  "Kapitan": {
+    "2019": 1,
+    "2020": 1
+  },
+  "KNIME": {
+    "2019": 2
+  },
+  "Kodi Foundation": {
+    "2019": 1,
+    "2020": 3
+  },
+  "Libre Space Foundation": {
+    "2019": 2,
+    "2020": 2,
+    "2021": 3
+  },
+  "Linkerd": {
+    "2019": 2,
+    "2020": 2
+  },
+  "Liquid Galaxy project": {
+    "2019": 7,
+    "2020": 8,
+    "2021": 11,
+    "2022": 9,
+    "2023": 11,
+    "2024": 12
+  },
+  "MacPorts": {
+    "2019": 4,
+    "2020": 1
+  },
+  "MBDyn - Multibody Dynamics": {
+    "2019": 1
+  },
+  "MetaBrainz Foundation Inc": {
+    "2019": 6,
+    "2021": 5,
+    "2022": 7,
+    "2023": 7,
+    "2024": 8
+  },
+  "Moira": {
+    "2019": 1,
+    "2020": 2
+  },
+  "Named Data Networking Project": {
+    "2019": 2
+  },
+  "NV Access": {
+    "2019": 1,
+    "2020": 1
+  },
+  "Open Astronomy": {
+    "2019": 9
+  },
+  "Open Roberta": {
+    "2019": 3,
+    "2020": 3,
+    "2021": 0
+  },
+  "Open Technologies Aliance - GFOSS": {
+    "2019": 13
+  },
+  "Percona": {
+    "2019": 2,
+    "2020": 1
+  },
+  "Pitivi": {
+    "2019": 3,
+    "2020": 3,
+    "2021": 2,
+    "2023": 2
+  },
+  "Project PANOPTES": {
+    "2019": 2
+  },
+  "SageMath": {
+    "2019": 4,
+    "2020": 5,
+    "2021": 7,
+    "2022": 5,
+    "2023": 6,
+    "2024": 6
+  },
+  "Salesforce": {
+    "2019": 2
+  },
+  "SCoRe Lab (Sustainable Computing Research Lab)": {
+    "2019": 27
+  },
+  "shogun.ml": {
+    "2019": 1
+  },
+  "Software Heritage": {
+    "2019": 3,
+    "2021": 2,
+    "2022": 1
+  },
+  "SPDX (Software Product Data Exchange)": {
+    "2019": 8
+  },
+  "SymbiFlow": {
+    "2019": 1,
+    "2020": 3,
+    "2021": 1
+  },
+  "Synfig": {
+    "2019": 2,
+    "2020": 2,
+    "2021": 0,
+    "2022": 2,
+    "2023": 2,
+    "2024": 2
+  },
+  "syslog-ng": {
+    "2019": 2,
+    "2020": 1,
+    "2021": 2,
+    "2022": 2
+  },
+  "TensorFlow": {
+    "2019": 19,
+    "2020": 17,
+    "2021": 17,
+    "2022": 22,
+    "2023": 6
+  },
+  "The Apache Software Foundation": {
+    "2019": 17,
+    "2020": 17,
+    "2021": 28
+  },
+  "The Perl Foundation": {
+    "2019": 4
+  },
+  "The Postgres Operator": {
+    "2019": 1
+  },
+  "The Terasology Foundation": {
+    "2019": 9,
+    "2020": 8,
+    "2021": 4
+  },
+  "The Vega Project at the University of Washington": {
+    "2019": 2
+  },
+  "Tokio": {
+    "2019": 1
+  },
+  "Tungsten Fabric": {
+    "2019": 1
+  },
+  "Xi Editor": {
+    "2019": 1
+  },
+  "XMPP Standards Foundation (XSF)": {
+    "2019": 3
+  },
+  "xpra": {
+    "2019": 0
+  },
+  "ZynAddSubFX": {
+    "2019": 1
+  },
+  "52° North GmbH": {
+    "2020": 3
+  },
+  "Academy Software Foundation (ASWF)": {
+    "2020": 3
+  },
+  "Accord Project": {
+    "2020": 2,
+    "2021": 3,
+    "2024": 3
+  },
+  "afl++": {
+    "2020": 2
+  },
+  "AnitaB.org Open Source": {
+    "2020": 4
+  },
+  "AOSSIE": {
+    "2020": 9,
+    "2021": 11,
+    "2022": 8,
+    "2023": 6,
+    "2024": 18
+  },
+  "appleseed": {
+    "2020": 3
+  },
+  "Arduino": {
+    "2020": 2
+  },
+  "BioGears": {
+    "2020": 2
+  },
+  "caMicroscope": {
+    "2020": 2,
+    "2021": 5,
+    "2023": 3,
+    "2024": 3
+  },
+  "Casbin": {
+    "2020": 3,
+    "2021": 9,
+    "2022": 10
+  },
+  "Ceph Foundation": {
+    "2020": 4
+  },
+  "Continuous Delivery Foundation": {
+    "2020": 3,
+    "2021": 6
+  },
+  "CRIU": {
+    "2020": 3,
+    "2021": 3,
+    "2022": 2,
+    "2023": 3,
+    "2024": 3
+  },
+  "Dart": {
+    "2020": 5,
+    "2021": 3,
+    "2022": 3,
+    "2023": 2,
+    "2024": 4
+  },
+  "Digital Impact Alliance (DIAL) at UN Foundation": {
+    "2020": 14,
+    "2021": 12
+  },
+  "Embox": {
+    "2020": 2
+  },
+  "Erlang Ecosystem Foundation": {
+    "2020": 3
+  },
+  "FrameNet Brasil (UFJF)": {
+    "2020": 2,
+    "2021": 1
+  },
+  "FreeBSD Project": {
+    "2020": 6,
+    "2021": 5
+  },
+  "FRRouting": {
+    "2020": 1,
+    "2021": 1,
+    "2022": 1
+  },
+  "GDevelop": {
+    "2020": 2
+  },
+  "GeomScale": {
+    "2020": 3,
+    "2021": 5,
+    "2022": 6,
+    "2023": 3,
+    "2024": 7
+  },
+  "GraphQL Foundation": {
+    "2020": 2
+  },
+  "Hazelcast": {
+    "2020": 2
+  },
+  "Joplin": {
+    "2020": 2,
+    "2021": 5,
+    "2022": 6,
+    "2024": 5
+  },
+  "Kubeflow": {
+    "2020": 2,
+    "2024": 8
+  },
+  "Matrix": {
+    "2020": 6
+  },
+  "MDAnalysis": {
+    "2020": 3,
+    "2021": 2,
+    "2022": 2,
+    "2023": 2,
+    "2024": 3
+  },
+  "MGGG Redistricting Lab": {
+    "2020": 2,
+    "2021": 1
+  },
+  "Mixxx": {
+    "2020": 3,
+    "2022": 2,
+    "2024": 2
+  },
+  "MoveIt": {
+    "2020": 2,
+    "2021": 1,
+    "2022": 2,
+    "2023": 2,
+    "2024": 3
+  },
+  "mypy": {
+    "2020": 1,
+    "2021": 2
+  },
+  "MZmine": {
+    "2020": 2,
+    "2022": 1
+  },
+  "Netty": {
+    "2020": 1
+  },
+  "Open Bioinformatics Foundation (OBF)": {
+    "2020": 8,
+    "2022": 5
+  },
+  "OpenEMR": {
+    "2020": 3
+  },
+  "OpenHMD": {
+    "2020": 0
+  },
+  "OpenMined": {
+    "2020": 4,
+    "2021": 5
+  },
+  "OpenRefine": {
+    "2020": 2,
+    "2024": 1
+  },
+  "openSUSE Project": {
+    "2020": 3,
+    "2021": 6,
+    "2022": 4,
+    "2023": 8,
+    "2024": 11
+  },
+  "Orcasound": {
+    "2020": 2,
+    "2021": 4,
+    "2022": 4
+  },
+  "Point Cloud Library": {
+    "2020": 2,
+    "2021": 3
+  },
+  "Postman": {
+    "2020": 2,
+    "2021": 9,
+    "2023": 8,
+    "2024": 9
+  },
+  "Processing Foundation": {
+    "2020": 11,
+    "2021": 11,
+    "2022": 8,
+    "2023": 8
+  },
+  "R Project for Statistical Computing": {
+    "2020": 20
+  },
+  "Radare": {
+    "2020": 4
+  },
+  "SCoRe Lab": {
+    "2020": 25,
+    "2021": 23,
+    "2022": 21,
+    "2023": 12
+  },
+  "Shogun": {
+    "2020": 2
+  },
+  "Ste||ar group": {
+    "2020": 5,
+    "2022": 4,
+    "2023": 5,
+    "2024": 5
+  },
+  "Wireshark": {
+    "2020": 1
+  },
+  "52°North GmbH": {
+    "2021": 3
+  },
+  "AFLplusplus": {
+    "2021": 2,
+    "2022": 1,
+    "2023": 2,
+    "2024": 2
+  },
+  "AnkiDroid": {
+    "2021": 2,
+    "2022": 3,
+    "2024": 3
+  },
+  "Audacity": {
+    "2021": 2,
+    "2022": 1
+  },
+  "Bench-Routes": {
+    "2021": 2
+  },
+  "CASTOR": {
+    "2021": 2
+  },
+  "Center for Research in Open Source Software, UC Santa Cruz": {
+    "2021": 5
+  },
+  "CHAOSS Project": {
+    "2021": 6
+  },
+  "Chromium": {
+    "2021": 9,
+    "2022": 14,
+    "2023": 17,
+    "2024": 16
+  },
+  "Cilium": {
+    "2021": 3
+  },
+  "CNCF": {
+    "2021": 16,
+    "2022": 16,
+    "2023": 14,
+    "2024": 11
+  },
+  "DeepPavlov": {
+    "2021": 3
+  },
+  "Department of Biomedical Informatics (BMI), Emory University School of Medicine": {
+    "2021": 6
+  },
+  "Elm Tooling": {
+    "2021": 2
+  },
+  "Fortran-lang": {
+    "2021": 5,
+    "2022": 5,
+    "2023": 3,
+    "2024": 3
+  },
+  "Genome Assembly and Annotation": {
+    "2021": 3,
+    "2022": 6,
+    "2023": 5
+  },
+  "GFOSS - Open Technology Alliance": {
+    "2021": 9
+  },
+  "GitLab": {
+    "2021": 4,
+    "2022": 3,
+    "2023": 3
+  },
+  "GNOME Foundation": {
+    "2021": 12,
+    "2022": 9,
+    "2023": 9,
+    "2024": 8
+  },
+  "GNU Mailman Project": {
+    "2021": 0
+  },
+  "Google FHIR SDK": {
+    "2021": 5
+  },
+  "GRR Rapid Response": {
+    "2021": 0
+  },
+  "gVisor": {
+    "2021": 1
+  },
+  "Halide": {
+    "2021": 2
+  },
+  "Integrated Ocean Observing System (IOOS)": {
+    "2021": 3
+  },
+  "Intel Video and Audio for Linux": {
+    "2021": 3,
+    "2022": 2
+  },
+  "International Catrobat Association": {
+    "2021": 13,
+    "2022": 11,
+    "2023": 7,
+    "2024": 8
+  },
+  "JabRef e.V.": {
+    "2021": 2,
+    "2022": 1,
+    "2024": 3
+  },
+  "Java PathFinder": {
+    "2021": 3
+  },
+  "Kodi": {
+    "2021": 2,
+    "2022": 1
+  },
+  "Learning Equality": {
+    "2021": 1,
+    "2022": 3,
+    "2023": 3,
+    "2024": 4
+  },
+  "libcamera": {
+    "2021": 2,
+    "2022": 3,
+    "2023": 2
+  },
+  "LibreCube Initiative": {
+    "2021": 2,
+    "2022": 1,
+    "2024": 4
+  },
+  "Machine Learning for Science (ML4SCI) Umbrella Organization": {
+    "2021": 19
+  },
+  "MapAction": {
+    "2021": 1
+  },
+  "Mayor's Office of New Urban Mechanics (City of Boston)": {
+    "2021": 3
+  },
+  "Media Cloud": {
+    "2021": 0
+  },
+  "MediaPipe": {
+    "2021": 6
+  },
+  "MetaCall": {
+    "2021": 3,
+    "2022": 5,
+    "2023": 4,
+    "2024": 7
+  },
+  "Navidrome": {
+    "2021": 1
+  },
+  "Open Robotics": {
+    "2021": 2,
+    "2022": 2,
+    "2023": 3,
+    "2024": 5
+  },
+  "openastronomy": {
+    "2021": 8
+  },
+  "OSGeo - Open Source Geospatial Foundation": {
+    "2021": 12
+  },
+  "Pidgin Instant Messenger": {
+    "2021": 1
+  },
+  "Plan 9 Foundation": {
+    "2021": 2
+  },
+  "Polypheny": {
+    "2021": 3,
+    "2022": 3,
+    "2024": 3
+  },
+  "Project WikiLoop": {
+    "2021": 3
+  },
+  "React Native Elements": {
+    "2021": 2
+  },
+  "Rizin": {
+    "2021": 3,
+    "2022": 2,
+    "2023": 1,
+    "2024": 2
+  },
+  "Scala Center": {
+    "2021": 4,
+    "2022": 4,
+    "2023": 6,
+    "2024": 10
+  },
+  "Shaka Player": {
+    "2021": 2
+  },
+  "Tarantool": {
+    "2021": 3,
+    "2022": 0
+  },
+  "TARDIS SN": {
+    "2021": 3
+  },
+  "The ENIGMA Team": {
+    "2021": 2,
+    "2022": 3,
+    "2023": 2,
+    "2024": 2
+  },
+  "The Palisadoes Foundation": {
+    "2021": 5,
+    "2022": 8,
+    "2023": 8,
+    "2024": 8
+  },
+  "The R Project for Statistical Computing": {
+    "2021": 21
+  },
+  "TianoCore": {
+    "2021": 5,
+    "2022": 3
+  },
+  "Xfce": {
+    "2021": 2,
+    "2022": 3
+  },
+  "Xiph.Org Foundation": {
+    "2021": 3
+  },
+  "xrdesktop": {
+    "2021": 2
+  },
+  "52°North Spatial Information Research GmbH": {
+    "2022": 5,
+    "2023": 3,
+    "2024": 2
+  },
+  "Academy Software Foundation": {
+    "2022": 0
+  },
+  "Center for Research in Open Source Software (CROSS)": {
+    "2022": 9
+  },
+  "Center for Translational Data Science": {
+    "2022": 2
+  },
+  "checkstyle": {
+    "2022": 1,
+    "2023": 2,
+    "2024": 3
+  },
+  "CHIPS Alliance": {
+    "2022": 3,
+    "2023": 5,
+    "2024": 6
+  },
+  "Department of Biomedical Informatics, Emory University": {
+    "2022": 8,
+    "2023": 5,
+    "2024": 5
+  },
+  "Drupal Association": {
+    "2022": 3,
+    "2023": 4,
+    "2024": 6
+  },
+  "Electron": {
+    "2022": 1,
+    "2024": 1
+  },
+  "Flashrom": {
+    "2022": 1
+  },
+  "Forschungszentrum Jülich": {
+    "2022": 4
+  },
+  "GNU Image Manipulation Program": {
+    "2022": 1,
+    "2023": 3,
+    "2024": 3
+  },
+  "GRAME": {
+    "2022": 1,
+    "2023": 2,
+    "2024": 4
+  },
+  "Internet Health Report": {
+    "2022": 3,
+    "2023": 4,
+    "2024": 4
+  },
+  "IOOS": {
+    "2022": 4,
+    "2024": 6
+  },
+  "JdeRobot": {
+    "2022": 6,
+    "2023": 4,
+    "2024": 5
+  },
+  "Jenkins": {
+    "2022": 4,
+    "2023": 4,
+    "2024": 5
+  },
+  "Jenkins X": {
+    "2022": 2
+  },
+  "Kart Project": {
+    "2022": 1
+  },
+  "Keptn": {
+    "2022": 3
+  },
+  "libssh": {
+    "2022": 1,
+    "2023": 2,
+    "2024": 2
+  },
+  "Machine Learning for Science (ML4SCI)": {
+    "2022": 20,
+    "2023": 23,
+    "2024": 27
+  },
+  "Mathesar": {
+    "2022": 3,
+    "2023": 2
+  },
+  "Mayor's Office of New Urban Mechanics": {
+    "2022": 2,
+    "2023": 4
+  },
+  "Micro Electronics Research Lab - UITU": {
+    "2022": 3,
+    "2023": 1,
+    "2024": 4
+  },
+  "moja global": {
+    "2022": 3
+  },
+  "Monado": {
+    "2022": 2
+  },
+  "Neutralinojs": {
+    "2022": 1,
+    "2024": 3
+  },
+  "omegaUp": {
+    "2022": 1,
+    "2023": 3,
+    "2024": 2
+  },
+  "Open3D team": {
+    "2022": 3
+  },
+  "OpenAFS": {
+    "2022": 2
+  },
+  "OpenVINO Toolkit": {
+    "2022": 3,
+    "2023": 5,
+    "2024": 11
+  },
+  "Organic Maps": {
+    "2022": 2,
+    "2023": 3,
+    "2024": 4
+  },
+  "OSGeo (Open Source Geospatial Foundation)": {
+    "2022": 6,
+    "2023": 7,
+    "2024": 7
+  },
+  "Our World In Data": {
+    "2022": 2
+  },
+  "PowerDNS": {
+    "2022": 1
+  },
+  "RADAR-base": {
+    "2022": 3
+  },
+  "ReactOS Foundation": {
+    "2022": 0
+  },
+  "Responsible AI and Human Centred Technology": {
+    "2022": 4
+  },
+  "Robolectric": {
+    "2022": 2,
+    "2024": 3
+  },
+  "rocket.chat": {
+    "2022": 12,
+    "2023": 10,
+    "2024": 17
+  },
+  "SeaQL": {
+    "2022": 0
+  },
+  "Semi Technologies": {
+    "2022": 3
+  },
+  "sktime": {
+    "2022": 3,
+    "2024": 5
+  },
+  "Society for Arts and Technology (SAT)": {
+    "2022": 3,
+    "2023": 5
+  },
+  "TARDIS RT Collaboration": {
+    "2022": 4,
+    "2023": 6,
+    "2024": 3
+  },
+  "The FreeBSD Project": {
+    "2022": 7,
+    "2023": 6,
+    "2024": 11
+  },
+  "The JPF team": {
+    "2022": 2,
+    "2023": 2,
+    "2024": 4
+  },
+  "Unikraft": {
+    "2022": 3,
+    "2023": 4,
+    "2024": 4
+  },
+  "Wagtail": {
+    "2022": 3,
+    "2023": 2,
+    "2024": 2
+  },
+  "Wellcome Sanger Tree of Life": {
+    "2022": 1,
+    "2024": 3
+  },
+  "FreeCAD": {
+    "2023": 4,
+    "2024": 2
+  },
+  "Mantis": {
+    "2023": 2
+  },
+  "Cockpit Project": {
+    "2023": 2
+  },
+  "Jina AI": {
+    "2023": 1
+  },
+  "Stratosphere Laboratory, Czech Technical University in Prague": {
+    "2023": 1,
+    "2024": 1
+  },
+  "Keploy": {
+    "2023": 2,
+    "2024": 3
+  },
+  "KubeVirt": {
+    "2023": 1,
+    "2024": 2
+  },
+  "Scalable Parallel Computing Laboratory": {
+    "2023": 2,
+    "2024": 4
+  },
+  "UC OSPO": {
+    "2023": 14,
+    "2024": 17
+  },
+  "Invesalius": {
+    "2023": 2,
+    "2024": 5
+  },
+  "Qdrant": {
+    "2023": 2
+  },
+  "Carbon Language": {
+    "2023": 2
+  },
+  "FLARE": {
+    "2023": 4,
+    "2024": 1
+  },
+  "SQLancer": {
+    "2023": 2
+  },
+  "Ivy (lets-unify.ai)": {
+    "2023": 3
+  },
+  "GnuTLS": {
+    "2023": 2
+  },
+  "Kotlin Foundation": {
+    "2023": 4,
+    "2024": 5
+  },
+  "MZmine and MS-DIAL": {
+    "2023": 2
+  },
+  "GCP Scanner": {
+    "2023": 3
+  },
+  "Open Climate Fix": {
+    "2024": 4
+  },
+  "eunomia-bpf": {
+    "2024": 3
+  },
+  "DatenLord": {
+    "2024": 2
+  },
+  "Stichting SU2": {
+    "2024": 3
+  },
+  "NixOS Foundation": {
+    "2024": 4
+  },
+  "CVAT": {
+    "2024": 3
+  },
+  "JSON Schema": {
+    "2024": 3
+  },
+  "The Rust Foundation": {
+    "2024": 9
+  },
+  "HumanAI": {
+    "2024": 11
+  },
+  "DeepChem": {
+    "2024": 8
+  },
+  "Open Science Initiative for Perfusion Imaging": {
+    "2024": 4
+  },
+  "Uramaki LAB": {
+    "2024": 3
+  },
+  "KolibriOS Project Team": {
+    "2024": 2
+  },
+  "OpenELIS Global": {
+    "2024": 5
+  },
+  "Project Mesa": {
+    "2024": 3
+  },
+  "City of Boston": {
+    "2024": 4
+  },
+  "The P4 Language Consortium": {
+    "2024": 4
+  },
+  "stdlib": {
+    "2024": 4
+  },
+  "Open Chromosome Collective": {
+    "2024": 3
+  },
+  "Waycrate": {
+    "2024": 3
+  },
+  "Prometheus-Operator": {
+    "2024": 3
+  },
+  "C2SI": {
+    "2024": 14
+  },
+  "Unicode, Inc.": {
+    "2024": 4
+  },
+  "Open Transit Software Foundation": {
+    "2024": 5
+  },
+  "Alaska": {
+    "2024": 4
+  },
+  "Data for the Common Good": {
+    "2024": 4
+  },
+  "Graphite": {
+    "2024": 3
+  },
+  "Open HealthCare Network": {
+    "2024": 4
+  },
+  "LAPPIS": {
+    "2024": 4
+  },
+  "Zendalona": {
+    "2024": 4
+  },
+  "Mautic": {
+    "2024": 2
+  },
+  "Nightwatch.js": {
+    "2024": 2
+  },
+  "AsyncAPI": {
+    "2024": 4
+  },
+  "API Dash": {
+    "2024": 1
+  },
+  "QC-Devs": {
+    "2024": 2
+  }
+}
+ 
