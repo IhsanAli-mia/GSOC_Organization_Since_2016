@@ -8,6 +8,10 @@ The data in this repository is extracted and organized from [nishantwrp/gsoc-org
 
 ## Manual
 
-The repository contains a .csv file that has all the output data, along with the source file used to generate it. Data in form of JSON file was taken from the gsoc-organizations repo. There might occur duplicates in the csv file due to organization names changing across the years.
+The repository contains a .csv file that has all the output data, along with the source file used to generate it. The JSON data was sourced from the `gsoc-organizations` repository. There might be duplicates in the CSV file due to organization names changing across the years. Manual inspection or further processing might be required to address such inconsistencies.
+
+## Contributions
+
+Contributions are welcome! If you notice any issues or have ideas for improvement, feel free to open an issue or submit a pull request.
 
 Thank you and Best of Luck!
